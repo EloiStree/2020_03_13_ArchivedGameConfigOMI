@@ -1,0 +1,10 @@
+selectally♦jomi:y↓ y↑♦jomi:u↓ u↑♦jomi:i↓ i↑♦jomi:o↓ o↑♦jomi:p↓ p↑ 
+druidattack♦jomi:0↓ 0↑♦jomi:1↓ 1↑♦jomi:2↓ 2↑♦jomi:np2↓ np2↑ 
+savehim♦jomi:x↓ x↑♦jomi:np7↓ np7↑♦jomi:F5↓ F5↑♦jomi:F10↓ F10↑ ♦ jomi:F1↓ F1↑ ♦ jomi:F2↓ F2↑ 
+saveme♦jomi:Y↓ Y↑♦jomi:7↓ 7↑♦jomi:W↓ W↑♦jomi:F1↓ F1↑♦jomi:F2↓ F2↑ 
+bigheal♦jomi:F7↓ F7↑♦jomi:F4↓ F4↑♦jomi:F3↓ F3↑♦jomi:F4↓ F4↑ 
+randomheal♦jomi:F1↓ F1↑♦jomi:F2↓ F2↑♦jomi:F3↓ F3↑♦jomi:F4↓ F4↑ ♦jomi:F5↓ F5↑ 
+
+☗stackautoreset savehim 5000
+☗stackautoreset saveme 5000
+☗stackautoreset bigheal 5000

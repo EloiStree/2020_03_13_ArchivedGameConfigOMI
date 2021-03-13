@@ -1,0 +1,100 @@
+//https://wowwiki.fandom.com/wiki/Slash_commands
+apex:moveforwardstart ♦ jomi:z↓  
+apex:moveleftstart ♦ jomi:q↓ 
+apex:moverightstart ♦ jomi:d↓ 
+apex:movebackstart ♦jomi:s↓ 
+
+apex:moveforwardend ♦ jomi: s↑
+apex:moveleftend ♦ jomi: q↑
+apex:moverightend ♦ jomi: d↑
+apex:movebackend ♦ jomi: s↑
+
+
+apex:sprint ♦ jomi: shift↓  shift↑ 
+apex:sprintstart ♦ jomi:  shift↓
+apex:sprintstop ♦ jomi:  shift↑ 
+apex:jump ♦ jomi:  space↓  space↑
+apex:jumpstart ♦ jomi: space↓
+apex:jumpstop ♦ jomi: space↑
+
+apex:crouchtoggle ♦ jomi:  c↓ c↑
+apex:crouchholdstart ♦  jomi: Ctrl↓
+apex:crouchholdstop ♦  jomi:  Ctrl↑ 
+
+
+apex:tactical ♦jomi:  a↓ a↑
+apex:tacticalstart ♦jomi:  a↓ 
+apex:tacticalstop ♦jomi:   a↑
+apex:ultimate ♦ jomi: w↓  w↑
+
+apex:interact♦jomi:  e↓ e↑
+apex:use♦jomi:  e↓ e↑
+apex:usestart♦jomi:  e↓ 
+apex:usestop♦jomi:  e↑
+apex:altinteract♦jomi:  x↓ x↑
+
+
+apex:inventory♦jomi: tab↓ tab↑ 
+apex:map♦jomi: m↓ m↑
+apex:menu♦jomi: escape↓ escape↑
+
+apex:attack♦jomi:  y↓ y↑
+apex:attackstart♦jomi: y↓
+apex:attackstop♦jomi:  y↑ 
+apex:togglefiremode♦jomi:  b↓ b↑
+
+apex:aimtoggle♦jomi: u↓ u↑ 
+apex:aimstart♦jomi: t↓
+apex:aimstop♦jomi:   t↑
+
+apex:menup♦jomi:   escape↓ escape↑
+
+apex:menup♦jomi:   back↓ back↑ 
+
+apex:melee♦jomi:  v↓ v↑
+apex:reload♦jomi:  r↓ r↑
+
+apex:nextweapon♦jomi:  n↓ n↑
+
+apex:weaponone♦jomi:  1↓ 1↑
+apex:weapontwo♦jomi:  2↓ 2↑
+apex:weaponhold♦jomi:  3↓ 3↑
+apex:grenade♦jomi: g↓ g↑ 
+apex:grenadestart ♦ jomi:g↓ 
+apex:grenadestop ♦ jomi:g↑ 
+apex:useheal♦jomi: 4↓ 4↑
+apex:usehealstart♦jomi: 4↓ 
+apex:usehealstop♦jomi:  4↑
+apex:useminiheal♦jomi: 5↓ 5↑
+apex:usebigheal♦jomi: 6↓ 6↑
+apex:useminishield♦jomi: 7↓ 7↑
+apex:usebigshield♦jomi:8↓ 8↑ 
+apex:usephenix♦jomi: 9↓ 9↑ 
+
+apex:specialaction♦jomi: H↓ H↑
+apex:inspectweapon♦
+
+apex:quickwheel♦jomi: F1↓ F1↑ 
+apex:quickwheelstart♦jomi: F1↓
+apex:quickwheelstop♦jomi: F1↑
+apex:thank♦jomi: F1↓ F1↑ 
+
+apex:ping♦jomi: F4↓ F4↑
+apex:pingstart♦jomi: F4↓ 
+apex:pingstop♦jomi:  F4↑
+apex:pingenemy♦jomi: F5↓ F5↑
+apex:pinggoing♦jomi: F6↓ F6↑
+apex:pinglooting♦jomi: F7↓ F7↑
+apex:pingdefending♦jomi: F8↓ F8↑
+apex:pingwatching♦jomi: F9↓ F9↑
+apex:pingsomeonehere♦jomi: F10↓ F10↑
+apex:vocal♦jomi: p↓ p↑
+
+
+apex:weaponcloserange♦macro:apex:weaponone
+apex:weaponlongrange♦macro:apex:weapontwo
+
+
+
+
+

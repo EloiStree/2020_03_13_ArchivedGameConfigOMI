@@ -1,0 +1,8 @@
+☗name Launch Grenade
+☗callid apex:fastlaunchgrenade
+☗description 
+0♦bool:islaunchinggrenade:true
+0♦macro:apex:grenade
+1300♦macro:apex:attack
+1300♦bool:islaunchinggrenade:false
+2000♦macro:apex:weaponone

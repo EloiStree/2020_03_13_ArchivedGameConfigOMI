@@ -1,0 +1,20 @@
+// Those macro can be call to cast a bait of the Shadow Land regions.
+
+wow:baitrevendreth ♦ jomi:Enter↓ ⌛150 Enter↑  ⌛150  [[/use Spinefin Piranha Bait]] ⌛150 Enter↓ ⌛150 Enter↑   ♦ In 300 | macro:wow:startfishing
+wow:baitbastion ♦ jomi:Enter↓ ⌛150 Enter↑  ⌛150  [[/use Silvergrill Pike Bait]] ⌛150 Enter↓ ⌛150 Enter↑ ♦ In 300 | macro:wow:startfishing
+wow:baitardenweald ♦ jomi:Enter↓ ⌛150 Enter↑  ⌛150  [[/use Iridescent Amberjack Bait]] ⌛150 Enter↓ ⌛150 Enter↑ ♦ In 300 |  macro:wow:startfishing
+wow:baitmaldraxxus ♦ jomi:Enter↓ ⌛150 Enter↑  ⌛150  [[/use Pocked Bonefish Bait]] ⌛150 Enter↓ ⌛150 Enter↑  ♦ In 300 |  macro:wow:startfishing
+wow:baitelysian ♦ jomi:Enter↓ ⌛150 Enter↑  ⌛150  [[/use Elysian Thade Bait]] ⌛150 Enter↓ ⌛150 Enter↑  ♦ In 300 |  macro:wow:startfishing
+
+//This line will enter in the chat the commmand to fish.
+//You could use a shortcut you have a limite range. So I don't.
+wow:startfishing ♦jomi:Enter↓ Enter↑ [[/cast fishing]] Enter↓ Enter↑
+
+//This line will ask the mouse utility of the software to spam 2 lines x 20 times on the colomn the left button.
+wow:stopfishing ♦ mouseutility:gridclick:FishingSpamLine:20:2:1    
+
+//This line ask to collect then to fishing one second later.
+wow:collectandrestartfishing ♦ macro:wow:stopfishing ♦ In 1000 | macro:wow:startfishing 
+
+
+

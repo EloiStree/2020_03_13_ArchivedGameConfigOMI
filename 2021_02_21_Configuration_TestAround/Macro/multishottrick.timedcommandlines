@@ -1,0 +1,8 @@
+☗name Relog the player
+☗callid wow:multishottrick
+☗description 
+//15 s
+0♦macro:wow:multitarget
+1050♦macro:wow:longrangeattack
+1400♦macro:wow:movingshots
+3000♦jomi: F8↓ ⌛200 F8↑ ⌛200 F8↓ ⌛200 F8↑ ⌛200 F8↓ ⌛200 F8↑ 

@@ -1,0 +1,31 @@
+☗name Relog the player
+☗callid wow:pvpsnipeburst2
+☗description 
+//15 s
+0♦macro:wow:sniperattack
+2750♦macro:wow:revenattack
+3000♦macro:wow:revenattack
+4000♦macro:wow:finishattack
+3200♦jomi: f5↓ f5↑ f9↓ f9↑
+3400♦jomi: f5↓ f5↑ f9↓ f9↑
+3600♦jomi: f5↓ f5↑ f9↓ f9↑
+3800♦jomi: f5↓ f5↑ f9↓ f9↑
+4000♦jomi: f5↓ f5↑ f9↓ f9↑
+4200♦jomi: f5↓ f5↑ f9↓ f9↑
+4400♦jomi: f5↓ f5↑ f9↓ f9↑
+4600♦jomi: f5↓ f5↑ f9↓ f9↑
+4800♦jomi: f5↓ f5↑ f9↓ f9↑
+5000♦jomi: f5↓ f5↑ f9↓ f9↑
+5200♦jomi: f5↓ f5↑ f9↓ f9↑
+5400♦jomi: f5↓ f5↑ f9↓ f9↑
+5600♦jomi: f5↓ f5↑ f9↓ f9↑
+5800♦jomi: f5↓ f5↑ f9↓ f9↑
+6000♦jomi: f5↓ f5↑ f9↓ f9↑
+6300♦jomi: f5↓ f5↑ f9↓ f9↑
+6600♦jomi: f5↓ f5↑ f9↓ f9↑
+6900♦jomi: f5↓ f5↑ f9↓ f9↑
+8630♦macro:wow:finishattack
+8650♦macro:wow:c4
+
+//0♦macro:wow:sniperattack
+//2850♦jomi: F3↓ F3↑ ⌛1510 F3↓ F3↑ ⌛1510  F3↓ F3↑  3↓ 3↑ np5↓ np5↑ 

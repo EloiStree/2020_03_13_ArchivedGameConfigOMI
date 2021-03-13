@@ -1,0 +1,126 @@
+☗name sendalltroop
+☗callid sendalltroop
+☗description sendalltroop
+0♦sc:CTRL+A
+	40♦sc:RightClick↓ RightClick↑
+	
+100♦sc:CTRL+A
+	140♦sc:RightClick↓ RightClick↑
+	
+200♦sc:CTRL+A
+	240♦sc:RightClick↓ RightClick↑
+	
+300♦sc:CTRL+A
+	340♦sc:RightClick↓ RightClick↑
+	
+400♦sc:CTRL+A
+	440♦sc:RightClick↓ RightClick↑
+	
+500♦sc:CTRL+A
+	540♦sc:RightClick↓ RightClick↑
+	
+600♦sc:CTRL+A
+	640♦sc:RightClick↓ RightClick↑
+	
+700♦sc:CTRL+A
+	740♦sc:RightClick↓ RightClick↑
+	
+800♦sc:CTRL+A
+	840♦sc:RightClick↓ RightClick↑
+	
+900♦sc:CTRL+A
+	940♦sc:RightClick↓ RightClick↑
+	
+1000♦sc:CTRL+A
+	1040♦sc:RightClick↓ RightClick↑
+	
+1100♦sc:CTRL+A
+	1140♦sc:RightClick↓ RightClick↑
+	
+1200♦sc:CTRL+A
+	1240♦sc:RightClick↓ RightClick↑
+	
+1300♦sc:CTRL+A
+	1340♦sc:RightClick↓ RightClick↑
+	
+1400♦sc:CTRL+A
+	1440♦sc:RightClick↓ RightClick↑
+	
+1500♦sc:CTRL+A
+	1540♦sc:RightClick↓ RightClick↑
+	
+1600♦sc:CTRL+A
+	1640♦sc:RightClick↓ RightClick↑
+	
+1700♦sc:CTRL+A
+	1740♦sc:RightClick↓ RightClick↑
+	
+1800♦sc:CTRL+A
+	1840♦sc:RightClick↓ RightClick↑
+	
+1900♦sc:CTRL+A
+	1940♦sc:RightClick↓ RightClick↑
+	
+2000♦sc:CTRL+A
+	2040♦sc:RightClick↓ RightClick↑
+	
+2100♦sc:CTRL+B
+	2140♦sc:RightClick↓ RightClick↑
+	
+2200♦sc:CTRL+B
+	2240♦sc:RightClick↓ RightClick↑
+	
+2300♦sc:CTRL+B
+	2340♦sc:RightClick↓ RightClick↑
+	
+2400♦sc:CTRL+B
+	2440♦sc:RightClick↓ RightClick↑
+	
+2500♦sc:CTRL+B
+	2540♦sc:RightClick↓ RightClick↑
+	
+2600♦sc:CTRL+B
+	2640♦sc:RightClick↓ RightClick↑
+	
+2700♦sc:CTRL+B
+	2740♦sc:RightClick↓ RightClick↑
+	
+2800♦sc:CTRL+B
+	2840♦sc:RightClick↓ RightClick↑
+	
+2900♦sc:CTRL+B
+	2940♦sc:RightClick↓ RightClick↑
+	
+3000♦sc:CTRL+B
+	3040♦sc:RightClick↓ RightClick↑
+	
+3100♦sc:CTRL+B
+	3140♦sc:RightClick↓ RightClick↑
+	
+3200♦sc:CTRL+B
+	3240♦sc:RightClick↓ RightClick↑
+	
+3300♦sc:CTRL+B
+	3340♦sc:RightClick↓ RightClick↑
+	
+3400♦sc:CTRL+B
+	3440♦sc:RightClick↓ RightClick↑
+	
+3500♦sc:CTRL+B
+	3540♦sc:RightClick↓ RightClick↑
+	
+3600♦sc:CTRL+B
+	3640♦sc:RightClick↓ RightClick↑
+	
+3700♦sc:CTRL+B
+	3740♦sc:RightClick↓ RightClick↑
+	
+3800♦sc:CTRL+B
+	3840♦sc:RightClick↓ RightClick↑
+	
+3900♦sc:CTRL+B
+	3940♦sc:RightClick↓ RightClick↑
+	
+4000♦sc:CTRL+B
+	4040♦sc:RightClick↓ RightClick↑
+	

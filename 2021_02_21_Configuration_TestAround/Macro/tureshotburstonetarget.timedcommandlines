@@ -1,0 +1,20 @@
+☗name Relog the player
+☗callid wow:trueshotburstonetarget
+☗description 
+//15 s
+
+0♦macro:wow:doubletap
+1800♦macro:wow:revenattack
+2800♦macro:wow:redirection
+2900♦macro:wow:trueshot
+3000♦macro:wow:longrangeattack
+4200♦macro:wow:longrangeattack
+5400♦macro:wow:movingshots
+7800♦macro:wow:c4
+9600♦macro:wow:movingattack 
+11600♦macro:wow:longrangeattack
+13000♦macro:wow:longrangeattack
+15500♦macro:wow:doubletarget
+17200♦macro:wow:longrangeattack
+20000♦macro:wow:crow
+21500♦macro:wow:finishattack

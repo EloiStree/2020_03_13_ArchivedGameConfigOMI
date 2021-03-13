@@ -1,0 +1,4 @@
+//windowname♦RegexOnTitle
+JOMI♦Open Macro Input (Java Runtime)
+BattleNet♦Blizzard Battle.Net
+wow♦World of Warcraft♦ ☗IgnoringCase

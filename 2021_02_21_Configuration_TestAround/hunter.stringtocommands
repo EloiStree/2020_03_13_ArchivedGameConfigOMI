@@ -1,0 +1,68 @@
+wow:revenattack ♦jomi: F4↓ F4↑
+wow:reventeleport ♦jomi: F6↓ F6↑
+wow:movingattack ♦jomi: F3↓ F3↑ ⌛1800 F4↓ F4↑ F5↓ F5↑ 
+wow:movingshots ♦jomi: F8↓ F8↑ ⌛1900 F4↓ F4↑ F5↓ F5↑ 
+wow:doubletap ♦jomi: F7↓ F7↑
+wow:finishattack ♦jomi: F5↓ F5↑
+wow:aimattack ♦jomi: F2↓ F2↑
+wow:sniperattack ♦jomi: F1↓ F1↑ 
+wow:longrangeattack ♦jomi: F2↓ F2↑  
+wow:anylongrangeattack ♦jomi: F2↓ F2↑ F1↓ F1↑ F3↓ F3↑ 
+wow:doubletarget ♦jomi: F9↓ F9↑ 
+wow:multitarget ♦jomi: F10↓ F10↑
+wow:stun ♦jomi: F11↓ F11↑
+wow:interrupt ♦jomi: F12↓ F12↑
+wow:crow♦jomi: 3↓ 3↑
+//allow power that can be cast quickly while moving in shot time
+wow:kunaishot♦jomi: f5↓ f5↑ f4↓ f4↑   NP6↓ np6↑ NP11↓ np11↑  3↓  3↑  np5↓  np5↑ 
+wow:stopattacking♦jomi: backspace↓ backspace↑
+wow:healpet ♦jomi: NP8↓ NP8↑
+wow:rezpet ♦jomi: NP8↓ NP8↑ ⌛200 6↓ 6↑
+
+wow:volley ♦jomi: x↓ ⌛100  x↑
+wow:flare ♦jomi: Home↓ Home↑
+
+wow:mudtrap ♦jomi: Insert↓ Insert↑
+wow:firetrap ♦jomi: End↓ End↑
+wow:freezetrap ♦jomi: Delete↓ Delete↑
+
+
+wow:unrage♦jomi: np2↓ np2↑
+wow:bigheal♦jomi: 9↓ 9↑
+wow:smallheal♦jomi: np9↓ np9↑
+wow:simdeath♦jomi: 7↓ 7↑
+wow:hide♦jomi: np7↓ np7↑
+wow:c4♦jomi: np6↓ np6↑
+wow:invokepet♦jomi: 6↓ 6↑
+wow:mark♦jomi: np5↓ np5↑
+wow:trueshot♦jomi: 5↓ 5↑
+wow:redirection♦jomi: 4↓ 4↑
+wow:trapshot♦jomi: np4↓ np4↑
+wow:loot♦jomi: np3↓ np3↑
+wow:mount♦jomi: enter↓ enter↑ [[/cast Black Stallion]] enter↓ enter↑
+wow:mountshop♦jomi: enter↓ enter↑ [[/cast Traveler's Tundra Mammoth]] enter↓ enter↑
+wow:sprint♦jomi: 2↓ 2↑
+wow:backflip♦jomi: 1↓ 1↑
+wow:pushshot♦jomi: np1↓ np1↑
+wow:peteye♦jomi: 0↓ 0↑
+wow:birdeye♦jomi: np0↓ np0↑
+
+wow:turtle♦jomi: 8↓ 8↑
+
+wow:jump: space↓ space↑
+
+
+wow:fear♦jomi: k↓ k↑
+wow:growl♦jomi: m↓ m↑
+wow:rage♦jomi: l↓ l↑
+
+wow:petattack♦jomi: p↓ p↑
+wow:petfollow♦jomi: o↓ o↑
+wow:petmovethere♦jomi: i↓ i↑
+wow:petstay♦jomi: u↓ u↑
+wow:petdef♦jomi: y↓ y↑
+wow:petassist♦jomi: t↓ t↑
+wow:petprovocation♦jomi: m↓ m↑
+
+wow:moveeverywherestart♦jomi: q↓  z↓  s↓  d↓ 
+wow:moveeverywherestop♦jomi: q↑  z↑  s↑  d↑

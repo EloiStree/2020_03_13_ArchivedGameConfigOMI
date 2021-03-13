@@ -1,0 +1,158 @@
+
+<spliters>
+    <duospliter first="LeftClick" second= "RightClick" name="MouseClickButton">
+        <description>Give information of the duality of the mouse "click" buttons.</description>
+        <none>NoClick</none>
+        <onlyfirst>OnlyLeftCLick</onlyfirst>
+        <onlysecond>OnlyRightClick</onlysecond>
+        <both>LeftAndRightClick</both>
+    </duospliter>   
+
+    <duospliter first="PageUp" second= "PageDown" name="MouseSideButton">
+        <description>Give information of the duality of the mouse button on the side.</description>
+        <none>NoMouseButton</none>
+        <onlyfirst>OnlyForwardMouseButton</onlyfirst>
+        <onlysecond>OnlyBackwardMouseButton</onlysecond>
+        <firstrenamed>MouseButtonLeft</firstrenamed>
+        <secondrenamed>MouseButtonRight</secondrenamed>
+        <both>BothMouseButton</both>
+    </duospliter>
+
+
+ <diamondspliter left="x" top= "y" right="b" down= "a"   name="XboxButtonState" >
+        <description>Track the combot that the user is using with the XYAB of the controller</description>
+        <none>NoXboxButton</none>
+        <ne>by</ne>
+        <no>xy</no>
+        <se>ab</se>
+        <so>ax</so>
+        <fulldown>xab</fulldown>
+        <fullup>xyb</fullup>
+        <fullleft>yxa</fullleft>
+        <fullright>yba</fullright>
+        <vertical>ya</vertical>
+        <horizontal>xb</horizontal>
+        <all>AllXboxButton</all>
+</diamondspliter>
+
+<triolinespliter first="shift" second= "ctrl" third="space" name="AlternativeInfoKeyboard" >
+        <description>This spliter show how to track combinasion of three input like the alternative buttons of gamer space, shift , ctrl</description>
+
+        <ooo>None</ooo>
+        <ooi></ooi>
+        <oio></oio>
+        <oii></oii>
+        <ioo>Test</ioo>
+        <ioi></ioi>
+        <iio></iio>
+        <iii>All</iii>
+</triolinespliter>
+
+
+
+<quatrolinespliter first="a" second= "z" third="e" fourth="r" name="Finger in dota position" >
+        <description>This spliter allows to use your finger in "Dota" mode. Meaning </description>
+        <oooo>None</oooo>
+        <iooo>Ability1</iooo>
+        <oioo>Ability2</oioo>
+        <ooio>Ability3</ooio>
+        <oooi>Ulti</oooi>
+        <iiii>All</iiii>
+</quatrolinespliter>
+
+<squarespliter topleft="xbl" topright= "xbr" downleft="xtl" downright= "xtr" name="Xbox Trigger Context"  >
+        <description>This spliter use the trigger of the Xbox Controller to contextualize the incoming input on XYAB.</description>
+        <none>NoContext</none>
+        <onlytopleft>CombatSpecific</onlytopleft>
+        <onlytopright>CombatSlowAction</onlytopright>
+        <onlydownleft>ListenToCombo</onlydownleft>
+        <onlydownright>QuickMacro</onlydownright>
+        <allexcepttopleft>PauseMusic</allexcepttopleft>
+        <allexcepttopright>PlayMusic</allexcepttopright>
+        <allexceptdownleft>NextMusic</allexceptdownleft>
+        <allexceptdownright>PreviousMusic</allexceptdownright>
+        <fulldown>power</fulldown>
+        <fullup>menu</fullup>
+        <fullleft>playerstat</fullleft>
+        <fullright>map</fullright>
+        <slashdiagonal>quickgoundmountcall</slashdiagonal>
+        <backslashdiagonal>quickflyingmountcall</backslashdiagonal>
+        <all>Emergency</all>
+</squarespliter>
+
+ <squarespliter topleft="foottl" topright= "foottr" downleft="footdl" downright= "footdr" name="FootBoard"  >
+        <description>This spliter allow to have more information on the state of the user feet state on the ground. </description>
+        <none>NoFoot</none>
+        <onlytopleft>onlyfoottl</onlytopleft>
+        <onlytopright>onlyfoottr</onlytopright>
+        <onlydownleft>onlyfootdl</onlydownleft>
+        <onlydownright>onlyfootrl</onlydownright>
+        <allexcepttopleft>allbutfoottl</allexcepttopleft>
+        <allexcepttopright>allbutfoottr</allexcepttopright>
+        <allexceptdownleft>allbutfootdl</allexceptdownleft>
+        <allexceptdownright>allbutfootdr</allexceptdownright>
+        <fulldown>releaseup</fulldown>
+        <fullup>releasedown</fullup>
+        <fullleft>releaseright</fullleft>
+        <fullright>releaseleft</fullright>
+        <slashdiagonal>footbackslash</slashdiagonal>
+        <backslashdiagonal>footslash</backslashdiagonal>
+        <all>AllFootDown</all>
+</squarespliter>
+
+
+<fingerspliter pinky="lefthandpinky" ring= "lefthandring" middle="lefthandmiddle" index="lefthandindex" thumb="lefthandthumb" name="Left Hand User Close State" >
+        <description>This spliter allows to track the fingers close state of user hand. </description>
+        <ooooo>HandOpen</ooooo>
+        <ooiio>Peace</ooiio>
+        <ooioo>Fuck Off</ooioo>
+        <iooio>Devil</iooio>
+        <ooooi>Like</ooooi>
+        <iiiii>Fist</iiiii>
+</fingerspliter>
+
+<joystick2Dspliter left="xll" forward= "xlt" right="xlr" backward= "xld"   name="XboxJoystickLeft" >
+        <description>This spliter track the movement request of the user on the Xbox Joystick</description>
+        <none>NoJoystickLeft</none>
+        <ne>ForwardTurnLeft</ne>
+        <nw>ForwardTurnRight</nw>
+        <n>MoveForward</n>
+        <s>MoveBackward</s>
+        <e>StrafeRight</e>
+        <w>StrafeLeft</w>
+</joystick2Dspliter>
+
+<joystick3Dspliter left="mleft"  right="mright" forward= "mup" backward= "mdown" down= "pressdown" top= "keepup"   name="Mouse 3D" >
+        <description>This spliter show how to use a 3D dimensional joystick like a 3D mouse for example. </description>
+        <none>M3DNotUsed</none>
+        <down>
+            <ne>M3DDownForwardLeft</ne>
+            <no>M3DDownForwardRight</no>
+        </down>
+        <middle>
+            <w>M3DRight</w>
+            <o>M3DLeft</o>
+        </middle>
+        <top>
+            <e>M3DTopRight</e>
+            <w>M3DTopLeft</w>
+        </top>
+
+            <dne>M3DDownForwardLeft</dne>
+            <dno>M3DDownForwardRight</dno>
+            <mw>M3DRight</mw>
+            <mo>M3DLeft</mo>
+            <te>M3DTopRight</te>
+            <tw>M3DTopLeft</tw>
+
+</joystick3Dspliter>
+
+ 
+<!--
+
+
+
+
+
+-->
+</spliters>

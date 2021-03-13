@@ -1,0 +1,4 @@
+wow + isfishing  ♦ macro:wow:stopfishing ♦ ☗TriggerOnTrue
+wow + isfishing ♦ macro:wow:startfishing ♦ ☗TriggerOnFalse
+
+    

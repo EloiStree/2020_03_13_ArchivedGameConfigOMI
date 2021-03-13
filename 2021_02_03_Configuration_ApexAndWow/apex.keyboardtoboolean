@@ -1,0 +1,40 @@
+
+
+
+PageDown ♦MouseButtonBack
+PageUp ♦MouseButtonFront
+
+NumPadDivide ♦ScrollLeft
+NumPadMultiply ♦ScrollRight
+NumPadSubstract ♦ScrollUp
+NumPadAdd ♦ScrollDown
+Pause ♦ScrollButton
+
+NumPad2 ♦TopLeft
+NumPad1 ♦TopLeftLeft
+NumPad3 ♦TopRight
+NumPad4 ♦TopRightRight
+NumPad5 ♦MidLeft
+NumPad6 ♦MidRight
+Delete ♦Pinky
+Home ♦Thumb
+F1 ♦BotLeft
+F2 ♦BotMid
+F3 ♦BotRight
+
+NumPad9 ♦RazerScrollUp
+NumPad8 ♦RazerScrollButton
+NumPad7 ♦RazerScrollDown
+
+Shift ♦Shift 
+LeftControl ♦Ctrl
+Space ♦Space
+Alt ♦Alt
+
+End ♦Emergency
+Backspace ♦Backspace
+
+Left♦ArrowLeft
+Right ♦ArrowRight
+Up ♦Arrowup
+Down ♦ArrowDown

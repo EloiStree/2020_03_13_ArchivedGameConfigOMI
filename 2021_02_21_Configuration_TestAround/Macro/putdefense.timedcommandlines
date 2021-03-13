@@ -1,0 +1,7 @@
+☗name Relog the player
+☗callid wow:trapdef
+☗description 
+//15 s
+0♦macro:wow:mudtrapclick
+1500♦macro:wow:freezetrapclick
+3000♦macro:wow:firetrapclick

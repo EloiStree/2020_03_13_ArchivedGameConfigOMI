@@ -1,0 +1,14 @@
+//wow + FishingSound♦ mouseutility:gridclick:FishingSpamZone:20:10:1  ♦ ☗TriggerOnTrue
+//wow + FishingSound♦ macro:wow:startfishingbreak  ♦ ☗TriggerOnTrue
+//wow ♦ macro: wow:collectandrestartfishing♦ ☗TriggerOnTrue
+//wow ♦jomi: space↓ space↑ ⌛2000 w↓ w↑ ♦ ☗LoopOnTrue 18000
+
+//
+//wow +!fishingpause+ FishingSound♦ mouseutility:gridclick:FishingSpamZone:20:10:1  ♦ ☗TriggerOnTrue
+//wow ♦ macro:wow:collectandrestartfishing♦ ☗LoopOnTrue 25000 ☗TriggerOnTrue
+//wow+macrotest ♦ macro:wow:auctionhousefishingcheck♦ ☗TriggerOnTrue
+
+wow+isfishing↓20000 + isinmaldraxxus ♦ macro:wow:baitmaldraxxus♦ ☗TriggerOnTrue
+wow+isfishing↓20000 + isinardenweald ♦ macro:wow:baitardenweald♦ ☗TriggerOnTrue
+wow+isfishing↓20000 + isinbastion ♦ macro:wow:baitbastion♦ ☗TriggerOnTrue
+wow+isfishing↓20000 + isinrevendreth ♦ macro:wow:baitrevendreth♦ ☗TriggerOnTrue

@@ -1,0 +1,17 @@
+wow:startturnleft♦jomi: q↓ 
+wow:stoptturnleft♦jomi: q↑
+wow:startturnright♦jomi: d↓ 
+wow:stoptturnright♦jomi: d↑
+
+wow:startmovebackward♦jomi: s↓ 
+wow:stopmovebackward♦jomi: s↑
+wow:startmoveforward♦jomi: z↓ 
+wow:stopmoveforward♦jomi: z↑
+wow:startjump♦jomi: space↓ 
+wow:stopjump♦jomi: space↑
+
+wow:startmoveleft♦jomi: j↓ 
+wow:stopmoveleft♦jomi: j↑
+wow:startmoveright♦jomi: k↓ 
+wow:stopmoveright♦jomi: k↑
+

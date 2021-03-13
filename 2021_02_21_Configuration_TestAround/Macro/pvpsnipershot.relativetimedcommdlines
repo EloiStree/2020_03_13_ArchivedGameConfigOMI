@@ -1,0 +1,10 @@
+☗name Sniper shot
+☗callid wow:pvpsnipertest
+//☗description This macro attempt to use a maximum the long range on a mono target while trueshot
+↑200 ↓2800♦macro:wow:sniperattack
+↑400 ↓1500♦macro:wow:multitarget
+↑10 ↓0♦macro:wow:trueshot
+↑10 ↓1300♦macro:wow:longrangeattack
+↑10 ↓1500♦macro:wow:multitarget
+↑10 ↓1300♦macro:wow:longrangeattack
+↑10 ↓0♦macro:wow:revenattack

@@ -1,0 +1,20 @@
+☗name Set three window to they place
+☗callid boxes:turnaround
+↑10 ↓100♦winutility:setfocuson:hunterone 
+↑10 ↓250♦jomi: q↓ ⌛100 q↑ tab↓ ⌛20 tab↑ 9↓ ⌛20 9↑ a↓ ⌛20 a↑  F1↓ ⌛20 F1↑
+↑10 ↓100♦winutility:setfocuson:huntertwo
+↑10 ↓250♦jomi: q↓ ⌛100 q↑ tab↓ ⌛20 tab↑ 9↓ ⌛20 9↑ a↓ ⌛20 a↑  F1↓ ⌛20 F1↑
+↑10 ↓100♦winutility:setfocuson:healer
+↑10 ↓250♦jomi: q↓ ⌛100 q↑ tab↓ ⌛20 tab↑ a↓ ⌛20 a↑
+↑10 ↓100♦winutility:setfocuson:hunterone 
+↑10 ↓250♦jomi: q↓ ⌛100 q↑ tab↓ ⌛20 tab↑ np6↓ ⌛20 np6↑  e↓ ⌛20 e↑  c↓ ⌛20 c↑
+↑10 ↓100♦winutility:setfocuson:huntertwo
+↑10 ↓250♦jomi: q↓ ⌛100 q↑ tab↓ ⌛20 tab↑ np6↓ ⌛20 np6↑  e↓ ⌛20 e↑  c↓ ⌛20 c↑ 
+↑10 ↓100♦winutility:setfocuson:healer
+↑10 ↓250♦jomi: q↓ ⌛100 q↑ tab↓ ⌛20 tab↑ c↓ ⌛20 c↑  e↓ ⌛20 e↑
+↑10 ↓100♦winutility:setfocuson:hunterone 
+↑10 ↓250♦jomi: r↓ ⌛100 r↑ 
+↑10 ↓100♦winutility:setfocuson:huntertwo
+↑10 ↓250♦jomi: r↓ ⌛100 r↑ 
+↑10 ↓100♦winutility:setfocuson:healer
+↑10 ↓250♦jomi: r↓ ⌛100 r↑ 

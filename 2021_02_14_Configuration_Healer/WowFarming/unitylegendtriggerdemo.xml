@@ -1,0 +1,71 @@
+<triggertrack>
+    <commentary>
+        <name> Space trigger + mouse action </name>
+        <description>Press space and control follow by mouse click to do an action.</description>
+    </commentary>
+
+
+    <!-- If condition is true the track start and the time start to count-->
+    <entrycondition condition="ctrl+space"/>
+    <entryaction commandline=""> 
+        <commandline condition=""></commandline>
+    </entryaction>
+
+    <!-- If condition is true the track stop to be active-->
+    <exitcondition condition="RightMouseClick" />
+    <exitcondition condition="!ctrl + !space" />
+    <exitaction commandline=""> 
+        <commandline condition=""></commandline>
+    </exitaction>
+
+
+    <!-- checker -->
+        <!-- Can be "Condition" from-to -->
+        <!-- Must be "Condition" from-to -->
+        <!-- Must not be "Condition" from-to -->
+        <!-- Must switch "Condition" count from-to -->
+
+    
+    <!-- region from-to -->
+        <!-- regionentry-->
+        <!-- regionexit-->
+
+        <!-- regionvalidexit-->
+        <!-- regionfailexit-->
+        
+        <!-- regionvalidedetected-->
+        <!-- regionfaildetected-->
+
+        <!-- checker 0-n -->
+        
+    <!-- timekey when-->
+        <!-- conditioncheck condition-->
+            <!-- commandline-->
+        
+
+    
+
+
+
+    <observedcondition localname="A" condition="ctrl+space"/>
+    <observedcondition localname="B" condition="LeftMouseClick"/>
+
+    <expectswitch type="true" observed="A" count="1" timestart="0" timestop="1000"/>
+    <expectswitch type="true" observed="B" count="1" timestart="200" timestop="1500"/>
+    <expectmaintaining type="true" observed="B" betweenstart="200" betweenstop="1500" min/>
+
+    <region timestart="200" timestop="3000">
+
+
+
+    </region>
+
+    <keytimetrigger time="1.5s" commandline="DebubLog Some macro" >
+        <commandline>DebubLog some other macro to trigger at 2 seconds of this timer </commandline>
+    </keytimetrigger>
+
+    <keytimetrigger time="2000ms">
+        <commandline condition="isingame">DebubLog I am doing stuff for the game  </commandline>
+        <commandline condition="isinapp"> DebubLog I am doing stuff for the app </commandline>
+    </keytimetrigger>
+</triggertrack>

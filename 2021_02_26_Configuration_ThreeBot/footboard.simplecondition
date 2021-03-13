@@ -1,0 +1,61 @@
+➤ ☗ | ↓ ↑ ♦
+TestMacro ♦ bool:turnaroundbrainlessbots:switch ♦ ☗TriggerOnTrue 
+turnaroundbrainlessbots ♦ macro:boxes:turnaround ♦ ☗TriggerOnTrue ☗LoopOnTrue 4500
+
+wow + shift + ArrowUp♦winutility:savefocusas:healer ♦ ☗TriggerOnTrue
+//shift + ArrowUp♦winutility:changetitle:healer:World of Warcraft♦ ☗TriggerOnTrue
+wow +shift + ArrowLeft ♦winutility:savefocusas:hunterone ♦ ☗TriggerOnTrue
+wow +shift + ArrowRight ♦winutility:savefocusas:huntertwo ♦ ☗TriggerOnTrue
+
+wow +!shift+ ArrowUp ♦winutility:setfocuson:healer ♦ ☗TriggerOnTrue
+wow+ !shift+ ArrowLeft ♦winutility:setfocuson:hunterone ♦ ☗TriggerOnTrue
+wow +!shift+ ArrowRight ♦winutility:setfocuson:huntertwo ♦ ☗TriggerOnTrue
+
+//wow + ArrowDown ♦ macro:boxes:defaultthree ♦ ☗TriggerOnTrue
+wow + ArrowDown ♦ macro:boxes:largethreehealer ♦ ☗TriggerOnTrue
+//wow + ArrowDown ♦ macro:boxes:largethreehunterone ♦ ☗TriggerOnTrue
+//wow + ArrowDown ♦ macro:boxes:largethreehuntertwo ♦ ☗TriggerOnTrue
+wow + space ♦ macro:box:alljump ♦ ☗TriggerOnTrue
+//wow + alt ♦ macro:box:alldance ♦ ☗TriggerOnTrue
+
+wow + Home ♦winutility:savewinpositionas:defaultmain ♦ ☗TriggerOnTrue
+wow + Delete ♦winutility:movetoscreenlocation:healer:defaultmain ♦ ☗TriggerOnTrue
+
+wow + actionup♦ stack:doandgonext:boxes ♦ ☗TriggerOnTrue
+
+
+
+
+// !footlt ♦ bool:focushunterone:true ♦ ☗TriggerOnTrue
+// !footlt ♦ bool:focushunterone:false ♦ ☗TriggerOnFalse
+//
+// !footlt ♦ bool:focushealer:false ♦ ☗TriggerOnTrue
+// !footlt ♦ bool:focushealer:true ♦ ☗TriggerOnFalse
+//
+// !footrt ♦ bool:focushuntertwo:true ♦ ☗TriggerOnTrue
+// !footrt ♦ bool:focushuntertwo:false ♦ ☗TriggerOnFalse
+//
+// !footrt ♦ bool:focushealer:false ♦ ☗TriggerOnTrue
+// !footrt ♦ bool:focushealer:true ♦ ☗TriggerOnFalse
+// 
+//
+// !footlt ♦ bool:hunterspam:true ♦ ☗TriggerOnTrue
+// !footlt ♦ bool:hunterspam:false ♦ ☗TriggerOnFalse
+// !footrt ♦ bool:hunterspam:true ♦ ☗TriggerOnTrue
+// !footrt ♦ bool:hunterspam:false ♦ ☗TriggerOnFalse
+//
+//!footld ♦macro:box:allfollow ♦ ☗TriggerOnTrue
+//!footrd ♦macro:box:allloot ♦ ☗TriggerOnTrue
+
+ focushunterone ♦ macro:box:focushunterone ♦ ☗TriggerOnTrue
+ focushuntertwo ♦ macro:box:focushuntertwo ♦ ☗TriggerOnTrue
+ focushealer ♦ macro:box:focushealer ♦ ☗TriggerOnTrue
+
+wow + ctrl ♦ bool:attackmode:switch ♦ ☗TriggerOnTrue
+
+//
+//wow +usingfoot+ footlt↑100 ♦  jomiraw:ms:l♦ ☗TriggerOnTrue
+//
+
+
+

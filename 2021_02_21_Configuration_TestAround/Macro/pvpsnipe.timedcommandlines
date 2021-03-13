@@ -1,0 +1,33 @@
+☗name Relog the player
+☗callid wow:pvpsnipeburst
+☗description 
+//15 s
+0♦macro:wow:sniperattack
+2750♦macro:wow:revenattack
+3000♦macro:wow:revenattack
+3200♦macro:wow:kunaishot
+3400♦macro:wow:kunaishot
+3600♦macro:wow:kunaishot
+3800♦macro:wow:kunaishot
+4000♦macro:wow:kunaishot
+4200♦macro:wow:kunaishot
+4400♦macro:wow:kunaishot
+4600♦macro:wow:kunaishot
+4800♦macro:wow:kunaishot
+5000♦macro:wow:kunaishot
+5200♦macro:wow:kunaishot
+5400♦macro:wow:kunaishot
+5600♦macro:wow:kunaishot
+5800♦macro:wow:kunaishot
+6000♦macro:wow:kunaishot
+6300♦macro:wow:kunaishot
+6600♦macro:wow:kunaishot
+6900♦macro:wow:kunaishot
+7200♦macro:wow:kunaishot
+7500♦macro:wow:kunaishot
+7800♦macro:wow:kunaishot
+8630♦macro:wow:finishattack
+8650♦macro:wow:c4
+
+//0♦macro:wow:sniperattack
+//2850♦jomi: F3↓ F3↑ ⌛1510 F3↓ F3↑ ⌛1510  F3↓ F3↑  3↓ 3↑ np5↓ np5↑ 

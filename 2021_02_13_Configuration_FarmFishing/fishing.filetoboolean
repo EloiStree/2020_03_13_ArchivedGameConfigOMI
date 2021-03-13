@@ -1,0 +1,7 @@
+// This file is just saying: I need this boolean to exist. Create it at start with default value as "true"
+// Put it to false if you don't want to fish anymore.
+//isfishing♦false
+isfishing♦true
+
+mage♦true
+warrior♦false

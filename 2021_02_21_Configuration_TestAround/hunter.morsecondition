@@ -1,0 +1,24 @@
+//wow + space♦..♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: np8↓ np8↑  F9↓ F9↑ 
+//wow + space♦...♦ ☗ExitTime 1000 ☗TriggerOnExit ♦jomi: F10↓ F10↑ 
+//wow + space♦....♦ ☗LongTime 200 ☗ExitTime 1000  ☗TriggerOnFound  ♦jomi:F7↓ F7↑ ⌛400 F4↓ F4↑
+//wow + moveforward♦....♦ ☗ExitTime 1000 ☗TriggerOnFound ☗TriggerOnExit ♦jomi: 9↓ 9↑ 
+wow +!chatting + alt + !ismoving   ♦.♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: 7↓ 7↑ 
+wow +!chatting + alt + ismoving    ♦.♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: np7↓ np7↑ 
+//wow + alt ♦-♦ ☗ExitTime 1500  ☗LongTime 400 ☗TriggerOnExit ♦ macro:wow:flareclick 
+wow +!chatting + alt ♦..♦ ☗ExitTime 600 ☗TriggerOnExit ♦ macro:wow:turtlerez 
+wow +!chatting + alt ♦...♦ ☗ExitTime 600 ☗TriggerOnExit ♦ macro:wow:peteyeclick
+//wow + movebackward   ♦...♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: np1↓ np1↑ 
+
+
+
+
+wow +!chatting + ismoving + shift    ♦.♦ ☗ExitTime 600 ☗TriggerOnExit ♦macro:wow:mudtrapclick
+wow +!chatting + !ismoving + shift    ♦.♦ ☗ExitTime 600 ☗TriggerOnExit ♦macro:wow:freezetrapclick
+wow +!chatting + shift    ♦..♦ ☗ExitTime 600 ☗TriggerOnExit ♦macro:wow:firetrapclick
+
+
+wow  +!chatting + moveforward ♦.. ♦ ☗ExitTime 600 ☗TriggerOnExit ♦  macro:wow:multitarget
+
+wow +!chatting + !ismoving + ActionDown♦. ♦ ☗ExitTime 600 ☗TriggerOnExit ♦  macro:wow:loot
+wow +!chatting + !ismoving + ActionDown♦.. ♦ ☗ExitTime 1200 ☗TriggerOnExit ♦  macro:wow:mount 
+wow +!chatting + !ismoving + ActionDown♦... ♦ ☗ExitTime 1800 ☗TriggerOnExit ♦  macro:wow:mountshop 

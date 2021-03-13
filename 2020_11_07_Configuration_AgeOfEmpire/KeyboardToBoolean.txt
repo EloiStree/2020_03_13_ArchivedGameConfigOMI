@@ -1,0 +1,18 @@
+➤ ☗ | ↓ ↑ ♦
+A♦Worker
+Z♦Military
+E♦SelectionUnity
+R♦SelectionBuilding
+P♦ UseCheatCode
+B♦ SpamSoldier
+F9♦ Wololo1
+F11♦ Wololo2
+F12♦ Wololo3
+I♦ Farm
+J♦ AntiArcher
+O♦ AntiHorse
+K♦ Paysan
+L♦ Soldier
+N♦ SendAllTroop
+F6♦ SendEmptyPaysan
+F5♦ SendEmptySoldier

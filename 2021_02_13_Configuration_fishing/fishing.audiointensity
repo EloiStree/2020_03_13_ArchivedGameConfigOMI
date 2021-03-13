@@ -1,0 +1,3 @@
+// This line listen to microphone containing the word "Stereo" and will create a boolean named "FishingSound" when the intensity of it is between 5% to 100%
+Stereo♦FishingSound♦0.05♦1
+H1♦MeTalking♦0.05♦1

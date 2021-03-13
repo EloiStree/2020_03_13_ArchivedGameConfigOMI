@@ -1,0 +1,20 @@
+☗name Relog the player
+☗callid wow:pvpsnipeburst3
+ ☗description This macro attempt to use a maximum the long range on a mono target while trueshot
+//15 s
+
+0♦macro:wow:doubletap
+1100♦macro:wow:sniperattack
+4200♦macro:wow:trueshot
+4300♦macro:wow:longrangeattack
+5700♦macro:wow:longrangeattack
+6100♦macro:wow:revenattack
+7300♦macro:wow:movingshots
+7400♦macro:wow:sprint
+12000♦macro:wow:jump
+14600♦macro:wow:sniperattack
+17400♦macro:wow:longrangeattack
+18800♦macro:wow:movingattack
+22100♦macro:wow:finishattack
+22100♦macro:wow:c4
+

@@ -1,0 +1,33 @@
+
+NumPadDivide ♦ActionLeft
+NumPadMultiply ♦ActionRight
+NumPadSubstract ♦ActionUp
+NumPadAdd ♦ActionDown
+PageUp ♦PageUp
+PageDown ♦PageDown
+
+Pause ♦ActionMiddle
+Shift ♦Shift 
+LeftControl ♦Ctrl
+Space ♦Space
+Space ♦jump
+LeftAlt ♦Alt
+Tab ♦Tab
+Application ♦SpecialMenu
+Backspace ♦Backspace
+P ♦FarmingButton
+L ♦Spam0to9
+K ♦DruidFarming
+M ♦ brainlesshealasked
+J  ♦  MacroTest
+Q ♦ moveleft 
+D ♦ moveright 
+Z ♦ moveforward 
+S ♦ movebackward
+
+
+A  ♦  PowerTopLeft
+E  ♦  PowerTopRight
+R  ♦  PowerTopRightRight
+F  ♦  PowerMidRight
+C  ♦  PowerDownRight

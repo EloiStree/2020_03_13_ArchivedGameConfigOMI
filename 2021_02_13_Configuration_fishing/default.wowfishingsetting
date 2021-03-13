@@ -1,0 +1,10 @@
+// When a cast is call, what is the code or macro that should be executed
+☗fishingcastcommandline macro:wow:collectandrestartfishing
+// You define what condition will trigger the cast of a line. Here, be in wow and have fishing sound detected.
+☗fishingtriggercastcondition wow + fishingsound
+// You defined here the condition to be active. For me it is to play wow and to have set a boolean value "isfishing" to true
+☗fishingactivecondition wow + isfishing
+// Time in millisecond the soft need to stop casting  while it is recovering the fish
+☗fishingcastpause 4000
+// Time where you want the cast to be cast again if there is a bug or not fish at the end of the line.
+☗fishingrecallduration 22000

@@ -1,0 +1,9 @@
+wow + space♦..♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: np8↓ np8↑  F9↓ F9↑ 
+wow + space♦...♦ ☗ExitTime 1000 ☗TriggerOnExit ♦jomi: F10↓ F10↑ 
+wow + space♦....♦ ☗LongTime 200 ☗ExitTime 1000  ☗TriggerOnFound  ♦jomi:F7↓ F7↑ ⌛400 F4↓ F4↑
+wow + moveforward♦....♦ ☗ExitTime 1000 ☗TriggerOnFound ☗TriggerOnExit ♦jomi: 9↓ 9↑ 
+wow + alt   ♦.♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: F7↓ F7↑ 
+wow + alt   ♦-♦ ☗ExitTime 600  ☗LongTime 200 ☗TriggerOnExit ♦jomi: np0↓ np0↑ ⌛200  np1↓ np1↑ 
+wow + alt   ♦..♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: F10↓ F10↑ 
+wow + alt   ♦...♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: F7↓ F7↑ ⌛500 F8↓ F8↑ 
+wow + movebackward   ♦...♦ ☗ExitTime 600 ☗TriggerOnExit ♦jomi: np1↓ np1↑ 

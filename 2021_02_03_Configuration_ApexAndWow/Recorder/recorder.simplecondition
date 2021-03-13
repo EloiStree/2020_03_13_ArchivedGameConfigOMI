@@ -1,0 +1,5 @@
+
+wow + startrecordingkeyboard ♦ keyrecord:start ♦ ☗TriggerOnTrue
+wow + stoprecordingkeyboard ♦ keyrecord:stop ♦ ☗TriggerOnTrue
+wow + saverecordingkeyboard ♦ keyrecord:saveasfile:testrecorder ♦ ☗TriggerOnTrue
+wow + playrecordingkeyboard ♦ keyrecord:play:testrecorder ♦ ☗TriggerOnTrue

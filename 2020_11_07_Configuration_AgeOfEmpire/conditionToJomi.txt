@@ -1,0 +1,31 @@
+➤ ☗ | ↓ ↑ ♦
+#WAPin2 ♦ VK_DOWN↓ VK_DOWN↑ ♦ ☗LoopOnTrue 50
+#WAPin4 ♦ VK_UP↓ VK_UP↑ ♦ ☗LoopOnTrue 50
+#Hand + PaintDownLeftHand ♦ MiddleClick↓ MiddleClick↑ ♦ ☗TriggerOnTrue
+#Hand + PaintDownRightHand ♦ DoubleClick↓ DoubleClick↑ ♦ ☗TriggerOnFalse
+#!Hand + PaintTopLeftHand  ♦ ArrowLeft↓ ArrowLeft↑ ♦ ☗LoopOnTrue 50
+#!Hand + PaintTopRightHand ♦ ArrowRight↓ ArrowRight↑ ♦ ☗LoopOnTrue 50 
+#!Hand + PaintDownLeftHand ♦ ScrollUp	F	F	F↓ ScrollUp↑ ♦ ☗LoopOnTrue 250
+#!Hand + PaintDownRightHand ♦ ScrollDown↓ ScrollDown↑ ♦ ☗LoopOnTrue 250
+#Hand +  PaintDownRightHand + PaintDownLeftHand ♦ ScrollDown↓ ScrollDown↑ ♦ ☗LoopOnFalse 250
+#aoe+!pause + UseCheatCode  ♦Tab↓ Tab↑♦ ☗TriggerOnTrue
+#aoe+!pause + AntiHorse  ♦ Ctrl+B  Shift+S ♦   ☗LoopOnTrue 40
+#aoe+!pause + AntiArcher ♦ Ctrl+A  Shift+S ♦  ☗LoopOnTrue 40
+#aoe+!pause + Paysan ♦ Ctrl+H Shift+Q ♦  ☗TriggerOnTrue 40
+#aoe+!pause + SendEmptyPaysan♦ NP8↓ NP8↑ RightClick↓ RightClick↑  ♦  ☗LoopOnTrue 40
+#aoe+!pause + SendEmptySoldier♦ NP9↓ NP9↑ RightClick↓ RightClick↑  ♦  ☗LoopOnTrue 40
+#aoe + !pause + OnlyFootRT♦ 2↓ 2↑ RightClick↓  RightClick↑   ♦  ☗TriggerOnTrue
+#aoe + !pause + OnlyFootLT♦ 1↓ 1↑ RightClick↓  RightClick↑ ♦  ☗TriggerOnTrue
+#aoe + !pause + OnlyFootRT♦  RightClick↓  RightClick↑♦  ☗TriggerOnFalse
+#aoe + !pause + OnlyFootLT♦  RightClick↓  RightClick↑♦  ☗TriggerOnFalse
+#aoe + !pause + OnlyFootRD♦ Ctrl+0   ♦ ☗TriggerOnTrue
+#aoe + !pause + OnlyFootRD♦ RightClick↓  RightClick↑  9↓ 9↑ RightClick↓  RightClick↑  ♦ ☗TriggerOnTrue
+#aoe + !pause + OnlyFootLD♦ 8↓ 8↑ ♦ ☗TriggerOnTrue
+#aoe + !pause + OnlyFootLD♦  T↓ T↑ LeftClick↓  LeftClick↑  Escape↓ Escape↑♦ ☗TriggerOnFalse
+
+
+#aoe + !pause + OnlyFootLD♦ 3↓ 3↑ RightClick↓  RightClick↑ ♦  ☗TriggerOnTrue
+#aoe + !pause + OnlyFootLD♦  RightClick↓  RightClick↑♦  ☗TriggerOnFalse
+
+#aoe + !pause + OnlyFootRD♦ 4↓ 4↑ RightClick↓  RightClick↑ ♦  ☗TriggerOnTrue
+#aoe + !pause + OnlyFootRD♦  RightClick↓  RightClick↑♦  ☗TriggerOnFalse

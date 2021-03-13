@@ -1,0 +1,43 @@
+➤ ☗ | ↓ ↑ ♦
+!footrt + !footlt + !footrd + !footld ♦ bool:usingfoot:false ♦ ☗TriggerOnTrue
+!footrt + !footlt + !footrd + !footld ♦ bool:usingfoot:true ♦ ☗TriggerOnFalse
+
+//usingfoot + footrd↓100 ♦ jomiraw:ms:m ♦ ☗TriggerOnTrue
+usingfoot + footrd↑100 ♦ jomiraw:ms:m ♦ ☗TriggerOnTrue
+
+usingfoot + footld↑100 ♦ jomi:  A↓ ♦ ☗TriggerOnTrue
+usingfoot + footld↓100 ♦ jomi: A↑  ♦ ☗TriggerOnTrue
+usingfoot + footlt↑100 ♦ jomi:  E↓♦ ☗TriggerOnTrue
+usingfoot + footlt↓100 ♦ jomi: E↑  ♦ ☗TriggerOnTrue
+
+
+usingfoot + footrt↑100 ♦ jomi: 1↓ 1↑ ♦ ☗TriggerOnTrue
+usingfoot + footrt↓100 ♦ jomi: 2↓ 2↑ ♦ ☗TriggerOnTrue
+usingfoot + footrd↑100 ♦ jomi: jomiraw:mr:l ♦ ☗TriggerOnTrue
+usingfoot + footrd↓100 ♦ jomi: jomiraw:mp:l ♦ ☗TriggerOnTrue
+
+
+////wow +usingfoot+ footld↓100 ♦ jomi: x↓ ♦ ☗TriggerOnTrue
+////wow +usingfoot+ footrd↓100 ♦ jomi: w↓ ♦ ☗TriggerOnTrue
+////wow +usingfoot+ footld↑100 ♦ jomi: x↑♦ ☗TriggerOnTrue
+////wow +usingfoot+ footrd↑100 ♦ jomi: w↑♦ ☗TriggerOnTrue
+//
+//
+//wow +usingfoot+ footld↑100 ♦ jomi: Z↓   S↓   ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footld↑100 ♦ In 50| jomi: F1↓ F1↑ ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footld↑100 ♦ In 2100|jomi: F10↓ F10↑  ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footld↑100 ♦ In 2400|jomi: F3↓ F3↑ ♦ ☗TriggerOnTrue
+////wow +usingfoot+ footld↓100 ♦ In 3000|jomi: F8↓ F8↑ ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footld↓100 ♦ jomi:  Z↑   S↑♦ ☗TriggerOnTrue
+//
+//wow +usingfoot+ footrd↑100 ♦ jomi:  Z↓   S↓   ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footrd↑100 ♦  In 50|jomi: F7↓ F7↑ ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footrd↑100 ♦ In 2500|jomi: F10↓ F10↑  ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footrd↑100 ♦ In 2900|jomi: F3↓ F3↑ 6↓ 6↑ NP6↓ NP6↑  ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footrd↓100 ♦ jomi: F8↓ F8↑ ♦ ☗TriggerOnTrue
+//wow +usingfoot+ footrd↓100 ♦ jomi:  Z↑  S↑♦ ☗TriggerOnTrue
+
+
+
+
+

@@ -1,0 +1,97 @@
+➤ ☗ | ↓ ↑ ♦⌛35 
+//boolswitch:turnaround 
+
+//apex + !footrd ♦  macro:apex:attack ♦ ☗LoopOnTrue 500
+//apex + !footrd ♦  macro:apex:attack ♦ ☗TriggerOnTrue ☗LoopOnTrue 500
+
+//apex + !footrd ♦  macro:apex:weaponcloserange ♦ ☗TriggerOnTrue
+//apex + !footrd ♦  macro:apex:attackstart ♦ ☗TriggerOnTrue
+//apex + !footrd ♦  macro:apex:aimstart ♦ ☗TriggerOnTrue
+//apex + !footrd ♦  macro:apex:aimstop ♦ ☗TriggerOnFalse
+//apex + !footrd ♦  macro:apex:attackstop ♦ ☗TriggerOnFalse
+//apex + !footrd ♦  In 200| macro:apex:weaponlongrange ♦ ☗TriggerOnFalse
+
+
+apex + !footlt ♦ macro:apex:weaponhold♦ ☗TriggerOnTrue
+apex + !footlt ♦ In 100 | macro:apex:sprint♦ ☗TriggerOnTrue
+apex + !footld ♦ macro:apex:weaponone ♦ ☗TriggerOnTrue
+apex + !footld ♦ macro:apex:aimstart ♦ ☗TriggerOnTrue
+apex + !footld ♦ macro:apex:aimstop ♦ ☗TriggerOnFalse
+apex + !footrd ♦ macro:apex:aimstart ♦ ☗TriggerOnTrue
+apex + !footrd ♦ macro:apex:aimstop ♦ ☗TriggerOnFalse
+
+//Spam Fire
+apex + !footld ♦ macro:apex:attack ♦ ☗LoopOnTrue 100
+
+
+apex + !footrd ♦ macro:apex:weapontwo ♦ ☗TriggerOnTrue
+
+apex + !TopLeft ♦ macro:apex:pingenemy ♦ ☗TriggerOnTrue
+
+//apex + !footld ♦ macro:apex:tacticalstart♦ ☗TriggerOnTrue
+//apex + !footld ♦ macro:apex:tacticalstop♦  ☗TriggerOnFalse
+//apex + !footld ♦ In 800| macro:apex:weaponcloserange ♦ ☗TriggerOnFalse
+
+
+//apex + !footlt ♦ macro:apex:grenade ♦ ☗TriggerOnTrue
+//apex + !footlt ♦ macro:apex:attack ♦ ☗LoopOnTrue 100
+//apex + !footlt ♦ In 800| macro:apex:weaponcloserange ♦ ☗TriggerOnFalse
+
+
+
+
+//wow + Spam0to9 ♦ boolswitch:SpamLoop0to9 ♦ ☗TriggerOnTrue
+apex+ razerscrollup  ♦  mouseutility:click:grenadefire♦ ☗TriggerOnTrue
+
+
+//wow + Spam0to9 ♦ boolswitch:SpamLoop0to9 ♦ ☗TriggerOnTrue
+apex+ ScrollLeft  ♦  macro:apex:useminiheal ♦ ☗TriggerOnTrue
+apex+ ScrollLeft  ♦  macro:apex:useminiheal ♦ ☗LoopOnTrue 50
+apex+ ScrollRight  ♦  macro:apex:useminishield ♦ ☗TriggerOnTrue
+apex+ ScrollRight  ♦  macro:apex:useminishield ♦ ☗LoopOnTrue 50
+apex+ Scrollup  ♦  macro:apex:tactical ♦ ☗TriggerOnTrue
+apex+ Scrolldown  ♦  macro:apex:nextweapon ♦ ☗TriggerOnTrue
+
+apex+ ScrollDown  ♦  macro:apex:nextweapon ♦ ☗TriggéerOnTrue
+//apex+ ScrollLeft  ♦  macro:apex:grenadestart ♦ ☗TriggerOnTrue
+//apex+ ScrollLeft  ♦  macro:apex:grenadestop ♦ ☗TriggerOnFalse
+
+
+
+apex+TopRight ♦  macro:apex:usestart ♦ ☗TriggerOnTrue
+apex+TopRight ♦  macro:apex:usestop ♦ ☗TriggerOnFalse
+apex+TopRightRight ♦  macro:apex:reload ♦ ☗TriggerOnTrue
+
+
+
+
+//apex+arrowright ♦  macro:apex:pingstart ♦ ☗TriggerOnTrue
+//apex+arrowright ♦  macro:apex:pingstop ♦ ☗TriggerOnFalse
+apex+arrowright ♦  macro:apex:melee ♦ ☗TriggerOnTrue
+
+//apexyy+arrowup ♦  macro:apex:jumpstart ♦ ☗TriggerOnTrue
+//apex+arrowup ♦  macro:apex:jumpstop ♦ ☗TriggerOnFalse
+//apex+arrowdown ♦  macro:apéex:crouchholdstart ♦ ☗TriggerOnTrue
+//apex+arrowdown ♦  macro:apex:crouchholdstop ♦ ☗TriggerOnFalse
+apex+arrowdown ♦  macro:apex:weaponhold ♦ ☗TriggerOnFalse
+
+
+//apex+ MouseButtonBack♦  macro:apex:ultimate ♦ ☗TriggerOnTrue
+apex+ MouseButtonFront♦  macro:apex:usehealstart ♦ ☗TriggerOnTrue
+apex+ MouseButtonFront♦  macro:apex:usehealstop ♦ ☗TriggerOnFalse
+//apex+ MouseButtonBack♦  macro:apex:attack ♦ ☗TriggerOnFalse
+
+apex+ Pinky♦  macro:apex:sprintstart ♦ ☗TriggerOnTrue
+apex+ Pinky♦  macro:apex:sprintstop ♦ ☗TriggerOnFalse
+apex+ MidLeft♦  macro:apex:weaponhold♦ ☗TriggerOnFalse
+apex+ Thumb♦  macro:apex:jumpstart ♦ ☗TriggerOnTrue
+apex+ Thumb ♦ macro:apex:jumpstop ♦ ☗TriggerOnFalse
+apex+ Thumb ♦ macro:apex:crouchtoggle ♦ ☗TriggerOnFalse
+
+apex +BotLeft ♦ macro:apex:togglefiremode ♦ ☗TriggerOnTrue
+apex +BotMid ♦ macro:apex:altinteract ♦ ☗TriggerOnTrue
+apex +BotRight ♦ macro:apex: ♦ ☗TriggerOnTrue
+
+apex + arrowleft ♦ macro:apex:melee ☗TriggerOnTrue
+//apex + arrowleft ♦ macro:apex:tacticalstop♦  ☗TriggerOnFalse
+//apex + arrowleft ♦ In 800| macro:apex:weaponcloserange ♦ ☗TriggerOnFalse

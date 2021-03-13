@@ -1,0 +1,6 @@
+☗name Launch Grenade
+☗callid apex:selectgrenade
+☗description 
+0♦macro:apex:grenadestart
+500♦jomiraw:mm:0.6p:0.6p
+600♦macro:apex:grenadestop

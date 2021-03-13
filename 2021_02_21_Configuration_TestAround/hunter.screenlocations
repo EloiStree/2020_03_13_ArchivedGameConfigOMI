@@ -1,0 +1,15 @@
+//⌛ ➤ ☗ | ↓ ↑ ♦
+//.screenlocations
+
+
+forwardplayer♦0.5♦0.6
+farforwardplayer♦0.5♦0.8
+leftofplayer♦0.4♦0.5
+rightofplayer♦0.6♦0.5
+leftofscreen♦0.0♦0.5
+rightofscreenr♦0.1♦0.5
+behindplayer♦0.5♦0.43
+maxbehindplayer♦0.5♦0.3
+onplayerhead♦0.5♦0.5
+onplayerbody♦0.5♦0.475
+onplayerfoot♦0.5♦0.40

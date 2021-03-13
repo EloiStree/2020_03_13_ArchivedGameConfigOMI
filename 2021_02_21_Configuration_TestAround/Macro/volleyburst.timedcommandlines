@@ -1,0 +1,13 @@
+☗name Relog the player
+☗callid wow:volleyburst
+☗description 
+//15 s
+0♦macro:wow:doubletap
+1800♦macro:wow:trapshotclick
+2800♦macro:wow:volleyclick
+3000♦macro:wow:volleyclick
+3000♦macro:wow:longrangeattack
+4500♦macro:wow:movingshots
+8400♦macro:wow:c4
+10500♦macro:wow:multitarget
+12000♦macro:wow:longrangeattack

@@ -1,0 +1,104 @@
+➤ ☗ | ↓ ↑ ♦
+
+
+//wow + PageDown♦jomi:Delete↓ Delete↑  ♦ ☗Time 0   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l♦ ☗Time 150   ☗TriggerOnRange
+//wow + PageDown♦jomi:Insert↓ Insert↑  ☗Time 1500   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l ♦ ☗Time 1750   ☗TriggerOnRange
+//wow + PageDown♦jomi:  End↓ End↑ ♦ ☗Time 3000   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l ♦ ☗Time 3250   ☗TriggerOnRange
+
+//wow + usingfoot + !footlt ♦ jomi: space↓ space↑  ⌛60 end↓ end↑ ⌛50 np3↓  np3↑ ⌛300 np3↓  np3↑  ⌛300 np3↓  np3↑ ⌛300 np3↓  np3↑  ♦   ☗MinTime 0  ☗MaxTime 300   ☗TriggerOnReleaseInRange 
+//wow + usingfoot + !footlt ♦ jomi:  insert↓ insert↑  ♦ ☗Time 300   ☗TriggerOnRange
+//
+//
+//wow + usingfoot + !footld ♦ jomi: end↓ end↑♦ ☗Time 0   ☗TriggerOnRange
+//wow + usingfoot + !footld ♦ jomi: delete↓ delete↑  ♦ ☗Time 500   ☗TriggerOnRange
+//wow + usingfoot + !footld ♦ jomi: np4↓ np4↑ ♦ ☗Time 1000   ☗TriggerOnRange
+//wow + usingfoot + !footld ♦ jomi: enter↓ enter↑ [[/use traveler's tundra mammoth]] enter↓ enter↑ ♦ ☗Time 3000   ☗TriggerOnRange
+//
+//wow + usingfoot + !footrd ♦  jomi: np6↓ np6↑ ⌛60 f5↓  f5↑  ♦ ☗MinTime 0  ☗MaxTime 600   ☗TriggerOnReleaseInRange 
+//wow + usingfoot + !footrd ♦ jomi: 5↓ 5↑ ♦ ☗Time 500   ☗TriggerOnRange
+//wow + usingfoot + !footrd ♦ jomi: 4↓ 4↑ ♦ ☗Time 1000   ☗TriggerOnRange
+//wow + usingfoot + !footrd ♦ jomi: 4↓ 4↑ ♦ ☗Time 1250   ☗TriggerOnRange
+//wow + usingfoot + !footrd ♦ jomi: np5↓ np5↑ ♦ ☗Time 1750   ☗TriggerOnRange
+//wow + usingfoot + !footrd ♦ jomi: np5↓ np5↑ ♦ ☗Time 2000   ☗TriggerOnRange
+//wow + usingfoot + !footrd ♦ jomiraw:ms:l ♦ ☗Time 2250   ☗TriggerOnRange
+//
+//
+//
+//wow + usingfoot + !footrt ♦  jomi: np8↓ np8↑ ⌛60 f9↓  f9↑  ♦ ☗MinTime 0  ☗MaxTime 600   ☗TriggerOnReleaseInRange 
+//wow + usingfoot + !footrt ♦ In 1500| ♦ ☗MinTime 0  ☗MaxTime 600   ☗TriggerOnReleaseInRange 
+//wow + usingfoot + !footrt ♦ jomi: x↓ x↑ ⌛160  np7↓ np7↑ ⌛160  f7↓ f7↑ ⌛160  F4↓ F4↑ ⌛900  F4↓ F4↑ ⌛900  F5↓ F5↑ ♦ ☗Time 600  ☗TriggerOnRange
+//wow + usingfoot + !footrt ♦ jomiraw:ms:l  ♦ ☗Time 1000 ☗TriggerOnRange
+//wow + usingfoot + !footrt ♦ jomi: 8↓ 8↑ ⌛160 f6↓  f6↑   ♦ ☗Time 1100  ☗TriggerOnRange
+//
+//
+//
+////wow + usingfoot + !footrt ♦ jomi:   8↓ 8↑  ⌛100 F6↓ F6↑   ♦ ☗Time 1200  ☗TriggerOnRange
+////wow + usingfoot + !footrt ♦ jomi: np8↓ np8↑ ⌛60  f9↓  f9↑ ⌛60  ⌛60 f11↓ f11↑ ♦ ☗MinTime 0  ☗MaxTime 300   ☗TriggerOnReleaseInRange 
+////wow + usingfoot + !footrt ♦ jomi:   8↓ 8↑ ⌛50 F11↓ F11↑  ♦ ☗Time 300  ☗TriggerOnRange
+////wow + usingfoot + !footrt ♦ jomiraw:ms:l  ♦ ☗Time 600 ☗TriggerOnRange
+////wow + usingfoot + !footrt ♦ jomi:   8↓ 8↑  ⌛100 F6↓ F6↑   ♦ ☗Time 1200  ☗TriggerOnRange
+//
+//
+
+wow + !chatting +lockleftright ♦ macro:wow:doubletap ♦ ☗Time 200  ☗TriggerOnRange
+//wow +!chatting + lockupdown ♦ macro:wow:sprint ♦ ☗Time 400  ☗TriggerOnRange
+
+wow +!chatting + lockupdown ♦ macro:wow:revteleportfarfoward  ♦ ☗Time 400  ☗TriggerOnRange
+
+//wow + !PageUp + PageDown ♦ macro:wow:trapshotclick ♦ ☗Time 500   ☗TriggerOnRange
+//wow + !PageUp + PageDown ♦ macro:wow:stun ♦ ☗Time 400   ☗TriggerOnRange
+//wow + !PageUp + PageDown ♦ macro:wow:interrupt ♦ ☗MinTime 0  ☗MaxTime 400   ☗TriggerOnReleaseInRange 
+
+wow + !chatting + PageUp + !PageDown♦ macro:wow:movingshots ♦ ☗MinTime 0  ☗MaxTime 400   ☗TriggerOnReleaseInRange 
+wow + !chatting +PageUp + !PageDown ♦ macro:wow:interrupt ♦ ☗Time 100   ☗TriggerOnRange
+wow + !chatting +PageUp + !PageDown ♦ macro:wow:stun ♦ ☗Time 500   ☗TriggerOnRange
+wow + !chatting +PageUp + !PageDown ♦ macro:wow:unrage ♦ ☗Time 1000   ☗TriggerOnRange
+wow + !chatting +PageUp + !PageDown ♦ macro:wow:redirection♦jomi ♦ ☗MinTime 0  ☗MaxTime 400   ☗TriggerOnReleaseInRange 
+
+
+wow +!chatting + ActionRight  ♦ macro:wow:unrage ♦ ☗MinTime 0  ☗MaxTime 400   ☗TriggerOnReleaseInRange 
+wow +!chatting + jump  ♦ macro:wow:trapdef ♦ ☗Time 500  ☗TriggerOnRange
+wow +!chatting + rightclick♦ macro:wow:mark è♦ ☗Time 0  ☗TriggerOnRange
+wow +!chatting + rightclick♦ macro:wow:healpet ♦ ☗Time 0  ☗TriggerOnRange
+wow +!chatting + rightclick + leftclick ♦ macro:wow:interrupt ♦ ☗MinTime 0  ☗MaxTime 400   ☗TriggerOnReleaseInRange 
+wow +!chatting + rightclick + leftclick ♦ macro:wow:stun ♦ ☗Time 400  ☗TriggerOnRange
+//wow + rightclick + leftclick ♦ macro:wow:stun ♦ ☗Time 400  ☗TriggerOnRange
+
+wow+!chatting + powerdownright♦ macro:wow:rezpet ♦ ☗MinTime 0  ☗MaxTime 800   ☗TriggerOnReleaseInRange 
+wow+!chatting + powerdownright♦ macro:wow:doubleheal ♦ ☗Time 800  ☗TriggerOnRange
+
+wow +!chatting + ismoving + ctrl ♦ jomi: f8↓ f8↑    ♦ ☗Time 400   ☗TriggerOnRange
+
+wow +!chatting + ctrl + !ismoving  ♦macro:wow:loot    ♦ ☗Time 0   ☗TriggerOnRange
+wow +!chatting + ctrl + !ismoving  ♦macro:wow:mount   ♦ ☗Time 200   ☗TriggerOnRange
+wow +!chatting + ctrl + !ismoving  ♦macro:wow:mountshop   ♦ ☗Time 500   ☗TriggerOnRange
+
+
+
+//è
+//wow + PageDown + !PageUp  ♦ jomi:  m↓ m↑  ♦ ☗MinTime 0  ☗MaxTime 300   ☗TriggerOnReleaseInRange 
+//wow + PageDown + !PageUp♦ jomi:  9↓ 9↑ ♦ ☗Time 300  ☗TriggerOnRange
+//wow + PageDown + !PageUp♦ jomi: np5↓ np5↑ ♦ ☗Time 4000 ☗TriggerOnRange
+//
+////wow + space ♦ jomi: f11↓ f11↑    ♦ ☗Time 400   ☗TriggerOnRange
+//wow + space ♦ In 500| jomiraw:ms:l    ♦ ☗Time 400   ☗TriggerOnRange
+//wow + space ♦ jomi: w↓ w↑   ♦ ☗Time 1000   ☗TriggerOnRange
+//wow + space ♦ In 500| jomiraw:ms:l    ♦ ☗Time 1000   ☗TriggerOnRange
+//
+//
+//wow + !moveleft + !moveright + moveforward + movebackward  ♦ jomi: n↓ n↑    ♦ ☗Time 400 ☗TriggerOnRange
+//wow + moveleft + moveright + !moveforward + !movebackward  ♦ jomi: F6↓ F6↑    ♦ ☗Time 400 ☗TriggerOnRange
+//wow + moveleft + moveright + moveforward + movebackward  ♦ jomi: enter↓ enter↑ [[/use Conjured Mana Bun]] enter↓ enter↑  ♦ ☗Time 400   ☗TriggerOnRange
+//wow + moveleft + moveright + !moveforward + movebackward  ♦ jomi: space↓ space↑ insert↓ insert↑ ⌛400  np3↓ np3↑   ♦ ☗Time 300 ☗TriggerOnRange
+//wow + !jump + moveleft + moveright + moveforward + !movebackward  ♦ jomi: np9↓ np9↑    ♦ ☗Time 1000 ☗TriggerOnRange
+//wow + jump + moveleft + moveright + moveforward + !movebackward  ♦ jomi: end↓ end↑ ⌛400 np3↓ np3↑    ♦ ☗Time 50 ☗TriggerOnRange
+
+
+//wow + PowerTopRight ♦ jomi: 0↓ 0↑ ⌛100 0↓ 0↑ ⌛100 0↓ 0↑ ♦ ☗Time 400 ☗TriggerOnRange
+//wow + PowerTopRight ♦ jomi: 0↓ 0↑ ⌛100 0↓ 0↑ ⌛100 0↓ 0↑ ♦ ☗Time 1000 ☗TriggerOnRange
+//wow + PowerTopRight ♦ jomi: 0↓ 0↑ ⌛100 0↓ 0↑ ⌛100 0↓ 0↑ ♦ ☗Time 1500 ☗TriggerOnRange
+//wow + PowerTopRight ♦ jomi: 0↓ 0↑ ⌛100 0↓ 0↑ ⌛100 0↓ 0↑ ♦ ☗Time 2000 ☗TriggerOnRange
+//wow + PowerTopRight ♦ jomi: 0↓ 0↑ ⌛100 0↓ 0↑ ⌛100 0↓ 0↑ ♦ ☗Time 2500 ☗TriggerOnRange

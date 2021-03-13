@@ -1,0 +1,36 @@
+➤ ☗ | ↓ ↑ ♦
+
+
+//wow + PageDown♦jomi:Delete↓ Delete↑  ♦ ☗Time 0   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l♦ ☗Time 150   ☗TriggerOnRange
+//wow + PageDown♦jomi:Insert↓ Insert↑  ☗Time 1500   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l ♦ ☗Time 1750   ☗TriggerOnRange
+//wow + PageDown♦jomi:  End↓ End↑ ♦ ☗Time 3000   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l ♦ ☗Time 3250   ☗TriggerOnRange
+
+//wow +usingfoot+ !footrt ♦ jomi: NP2↓ NP2↑♦ ☗Time 0   ☗TriggerOnRange
+//wow +usingfoot+ !footrt ♦ jomiraw:ms:l♦ ☗Time 100  ☗TriggerOnRange
+//wow +usingfoot+ !footrt ♦ jomi: NP2↓ NP2↑♦ ☗Time 2000   ☗TriggerOnRange
+//wow +usingfoot+ !footrt ♦ jomiraw:ms:l♦ ☗Time 2100 ☗TriggerOnRange
+
+apex +TopLeftLeft ♦ macro:apex:inventory♦ ☗MinTime 0 ☗MaxTime 300 ☗TriggerOnReleaseInRange 
+apex +TopLeftLeft ♦ macro:apex:map ♦ ☗MinTime 300 ☗MaxTime 2000 ☗TriggerOnReleaseInRange 
+apex +TopLeftLeft ♦ macro:apex:menu ♦ ☗Time 2000 ☗TriggerOnRange
+//apex + TopLeftLeft↓3000 +!TopLeftLeft ♦ macro:apex:menu ♦ ☗Time 2000 ☗TriggerOnRange
+
+
+apex+ MouseButtonBack♦  macro:apex:ultimate ♦ ☗Time 0 ☗TriggerOnRange
+apex+ MouseButtonBack♦ In 800| macro:apex:attack ♦ ☗MinTime 0 ☗MaxTime 600 ☗TriggerOnReleaseInRange 
+
+
+
+apex + !footrt ♦ macro:apex:fastaimedlaunchgrenade ♦  ☗Time 600 ☗TriggerOnRange  
+apex + !footrt ♦ macro:apex:fastlaunchgrenade ♦  ☗MinTime 0 ☗MaxTime 600 ☗TriggerOnReleaseInRange 
+
+apex + !footlt ♦ macro:apex:selectshuriken ♦  ☗Time 400 ☗TriggerOnRange
+apex + !footlt ♦ macro:apex:selectfiregrenade ♦  ☗Time 1500 ☗TriggerOnRange
+apex + !footlt ♦ macro:apex:selectgrenade ♦  ☗Time 3000 ☗TriggerOnRange
+
+
+
+

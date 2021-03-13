@@ -1,0 +1,15 @@
+➤ ☗ |  ↓ ↑ ♦
+
+!CustomRD+!CustomLD+!CustomLT+!CustomRT♦AllFootRelease
+!CustomRD+!CustomLD+!CustomLT+!CustomRT♦Pause
+CustomRD+CustomLD+CustomLT+CustomRT♦ AllFootDown
+!CustomRD+!CustomRT ♦ RightFootRelease
+!CustomLD+!CustomLT ♦ LeftFootRelease
+!CustomLD+!CustomRD ♦ TopFootRelease
+!CustomLT+!CustomRT ♦ DownFootRelease
+!CustomRD+!CustomLD+!CustomLT+!CustomRT+CustomLD ♦ AllFootDown
+
+CustomRD+CustomLD+CustomLT+!CustomRT♦ OnlyFootRT
+CustomRD+CustomLD+!CustomLT+CustomRT♦ OnlyFootLT
+CustomRD+!CustomLD+CustomLT+CustomRT♦ OnlyFootLD
+!CustomRD+CustomLD+CustomLT+CustomRT♦ OnlyFootRD

@@ -1,0 +1,70 @@
+wow + xjll +xjlu  ♦macro:wow:startmoveleft   ♦ ☗TriggerOnTrue
+wow + xjll +xjlu  ♦macro:wow:stopmoveleft    ♦ ☗TriggerOnFalse
+wow + xjlr + xjlu ♦macro:wow:startmoveright ♦  ☗TriggerOnTrue
+wow + xjlr + xjlu ♦macro:wow:stopmoveright  ♦ ☗TriggerOnFalse
+
+//wow + xjll + !xjlu  ♦macro:wow:startturnleft♦ ☗TriggerOnTrue
+//wow + xjll + !xjlu  ♦macro:wow:stoptturnleft♦ ☗TriggerOnFalse
+//wow + xjlr + !xjlu  ♦macro:wow:startturnright♦ ☗TriggerOnTrue
+//wow + xjlr + !xjlu  ♦macro:wow:stoptturnright♦ ☗TriggerOnFalse
+
+wow + xjll + !xjlu  ♦macro:wow:startturnright   ♦ ☗TriggerOnTrue
+wow + xjll + !xjlu  ♦macro:wow:stoptturnright    ♦ ☗TriggerOnFalse
+wow + xjlr + !xjlu  ♦macro:wow:startturnleft  ♦ ☗TriggerOnTrue
+wow + xjlr + !xjlu  ♦macro:wow:stoptturnleft   ♦ ☗TriggerOnFalse
+wow + xjll + !xjlu  ♦macro:wow:startmoveleft   ♦ ☗TriggerOnTrue
+wow + xjll + !xjlu  ♦macro:wow:stopmoveleft    ♦ ☗TriggerOnFalse
+wow + xjlr + !xjlu  ♦macro:wow:startmoveright  ♦ ☗TriggerOnTrue
+wow + xjlr + !xjlu  ♦macro:wow:stopmoveright   ♦ ☗TriggerOnFalse
+
+
+wow + xjlu ♦macro:wow:startmoveforward♦ ☗TriggerOnTrue
+wow + xjlu ♦macro:wow:stopmoveforward♦ ☗TriggerOnFalse
+wow + xjld ♦macro:wow:startmovebackward♦ ☗TriggerOnTrue
+wow + xjld ♦macro:wow:stopmovebackward♦ ☗TriggerOnFalse
+
+!xjll + !xjlr  ♦bool:xjlhn:true  ♦ ☗TriggerOnTrue
+!xjll + !xjlr  ♦bool:xjlhn:false  ♦ ☗TriggerOnFalse
+!xjlu + !xjld  ♦bool:xjlvn:true  ♦ ☗TriggerOnTrue
+!xjlu + !xjld  ♦bool:xjlvn:false  ♦ ☗TriggerOnFalse
+
+xjlvn + xjlhn  ♦ bool:xjln:true  ♦ ☗TriggerOnTrue
+xjlvn + xjlhn  ♦ bool:xjln:false  ♦ ☗TriggerOnFalse
+
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moven:true   ♦ ☗TriggerOnTrue
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moven:false  ♦ ☗TriggerOnFalse
+
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:movee:true   ♦ ☗TriggerOnTrue
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:movee:false  ♦ ☗TriggerOnFalse
+
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moves:true   ♦ ☗TriggerOnTrue
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moves:false  ♦ ☗TriggerOnFalse
+
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moveo:true   ♦ ☗TriggerOnTrue
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moveo:false  ♦ ☗TriggerOnFalse
+
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:movene:true   ♦ ☗TriggerOnTrue
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moven:false  ♦ ☗TriggerOnFalse
+
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moveno:true   ♦ ☗TriggerOnTrue
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moveno:false  ♦ ☗TriggerOnFalse
+
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:movese:true   ♦ ☗TriggerOnTrue
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:movese:false  ♦ ☗TriggerOnFalse
+
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moveso:true   ♦ ☗TriggerOnTrue
+!xjll + !xjlr + !xjlu + !xjld ♦ bool:moveso:false  ♦ ☗TriggerOnFalse
+
+wow + xjlr + !xjlu  ♦macro:wow:stopmoveright   ♦ ☗TriggerOnFalse
+
+
+jomi: q↓ wow:startmoveleft♦
+wow:stopmoveleft♦jomi: q↑
+wow:startmoveright♦jomi: d↓ 
+wow:stopmoveright♦jomi: d↑
+wow:startmovebackward♦jomi: s↓ 
+wow:stopmovebackward♦jomi: s↑
+wow:startmoveforward♦jomi: z↓ 
+wow:stopmoveforward♦jomi: z↑
+wow:startjump♦jomi: space↓ 
+wow:stopjump♦jomi: space↑
