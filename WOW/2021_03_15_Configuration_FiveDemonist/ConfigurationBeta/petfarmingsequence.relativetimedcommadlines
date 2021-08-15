@@ -1,0 +1,193 @@
+☗name Set three window to they place
+☗callid boxes:petfarmingsequence
+
+//Send Pet
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓300♦stack:doandgonext:targetenemy
+↑10 ↓200♦jomi:f7↓ f7↑
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓100♦stack:doandgonext:attacksequence
+
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓300♦stack:doandgonext:targetenemy
+↑10 ↓200♦jomi:f7↓ f7↑
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓100♦stack:doandgonext:attacksequence
+
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓300♦stack:doandgonext:targetenemy
+↑10 ↓200♦jomi:f7↓ f7↑
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓100♦stack:doandgonext:attacksequence
+
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓300♦stack:doandgonext:targetenemy
+↑10 ↓200♦jomi:f7↓ f7↑
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓100♦stack:doandgonext:attacksequence
+
+
+↑10 ↓200♦macro:bot:healer  
+↑10 ↓10♦jomi:f6↓ f6↑ 
+
+//----------------
+
+//Loot
+↑10 ↓300♦macro:bot:hunterone 
+//↑10 ↓100♦jomi:d↓ 
+↑10 ↓100♦macro:box:loot
+//↑10 ↓100♦jomi: d↑
+↑10 ↓300♦macro:bot:huntertwo 
+//↑10 ↓100♦jomi:d↓ 
+↑10 ↓100♦macro:box:loot
+//↑10 ↓100♦jomi: d↑
+
+↑10 ↓300♦macro:bot:demonone
+↑10 ↓100♦macro:box:loot
+
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦macro:box:loot
+
+↑10 ↓300♦macro:bot:healer
+↑10 ↓100♦macro:box:loot
+
+
+//----------------
+
+//RandomAttack
+↑10 ↓200♦macro:bot:hunterone  
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:huntertwo 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:demonone 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:demontwo 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:healer 
+↑10 ↓10♦jomi:tab↓ tab↑  0↓ 0↑ 1↓ 1↑ 2↓ 2↑ 3↓ 3↑ 4↓ 4↑  
+
+//RandomAttack
+↑10 ↓200♦macro:bot:hunterone  
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:huntertwo 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:demonone 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:demontwo 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:healer 
+↑10 ↓10♦jomi:tab↓ tab↑  0↓ 0↑  2↓ 2↑ 3↓ 3↑ 4↓ 4↑  np2↓ np2↑ np3↓ np3↑ np4↓ np4↑  
+
+//RandomAttack
+↑10 ↓200♦macro:bot:hunterone  
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:huntertwo 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:demonone 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:demontwo 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:healer  
+↑10 ↓10♦jomi:f6↓ f6↑ 
+
+////////////
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓300♦stack:doandgonext:targetenemy
+↑10 ↓200♦jomi:f7↓ f7↑
+
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓300♦stack:doandgonext:targetenemy
+↑10 ↓200♦jomi:f7↓ f7↑
+
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓300♦stack:doandgonext:targetenemy
+↑10 ↓200♦jomi:f7↓ f7↑
+
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓300♦stack:doandgonext:targetenemy
+↑10 ↓200♦jomi:f7↓ f7↑
+
+
+
+
+//RandomAttack
+↑10 ↓200♦macro:bot:hunterone  
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:huntertwo 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:demonone 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:demontwo 
+↑10 ↓100♦macro:bot:tabattack
+↑10 ↓10♦stack:doandgonext:attacksequence
+
+↑10 ↓200♦macro:bot:healer 
+↑10 ↓10♦jomi:tab↓ tab↑   0↓ 0↑  2↓ 2↑ 3↓ 3↑ 4↓ 4↑  np2↓ np2↑ np3↓ np3↑ np4↓ np4↑ 
+
+
+
+
+//----------------
+//jump
+↑10 ↓200♦macro:bot:hunterone  
+↑10 ↓10♦jomi:f6↓ f6↑ 
+↑10 ↓10♦jomi:space↓ space↑ 
+↑10 ↓200♦macro:bot:huntertwo 
+↑10 ↓10♦jomi:f6↓ f6↑ 
+↑10 ↓10♦jomi:space↓ space↑ 
+↑10 ↓200♦macro:bot:demonone 
+↑10 ↓10♦jomi:f6↓ f6↑ 
+↑10 ↓10♦jomi:space↓ space↑ 
+↑10 ↓200♦macro:bot:demontwo 
+↑10 ↓10♦jomi:f6↓ f6↑ 
+↑10 ↓10♦jomi:space↓ space↑ 
+
+↑10 ↓200♦macro:bot:healer  
+↑10 ↓10♦jomi:space↓ space↑  
+
+//----------------
+//pet
+↑10 ↓200♦macro:bot:hunterone  
+↑10 ↓10♦jomi:f11↓ f11↑ 
+↑10 ↓200♦macro:bot:huntertwo 
+↑10 ↓10♦jomi:f11↓ f11↑ 
+↑10 ↓200♦macro:bot:demonone 
+↑10 ↓10♦jomi:f11↓ f11↑ 
+↑10 ↓200♦macro:bot:demontwo 
+↑10 ↓10♦jomi:f11↓ f11↑ 
+
+
+
+↑10 ↓200♦macro:bot:healer  
+↑10 ↓10♦jomi:f6↓ f6↑ 
+

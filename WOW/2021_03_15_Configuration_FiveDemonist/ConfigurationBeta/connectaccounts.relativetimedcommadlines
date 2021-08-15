@@ -1,0 +1,37 @@
+☗name Set three window to they place
+☗callid boxes:connectaccount
+↑10 ↓2000♦macro:bot:select1 
+↑10 ↓2000♦macro:box:bot1  
+↑10 ↓2000♦macro:bot:select2
+↑10 ↓2000♦macro:box:bot2  
+↑10 ↓2000♦macro:bot:select3
+↑10 ↓2000♦macro:box:bot3  
+↑10 ↓2000♦macro:bot:select4
+↑10 ↓2000♦macro:box:bot4  
+↑10 ↓2000♦macro:bot:select5
+↑10 ↓2000♦macro:box:bot5  
+↑10 ↓2000♦macro:bot:select1
+↑10 ↓5000♦
+↑10 ↓2000♦macro:bot:select1 
+↑10 ↓2000♦macro:box:validatebot1  
+↑10 ↓2000♦macro:bot:select2
+↑10 ↓2000♦macro:box:validatebot2  
+↑10 ↓2000♦macro:bot:select3
+↑10 ↓2000♦macro:box:validatebot3  
+↑10 ↓2000♦macro:bot:select4
+↑10 ↓2000♦macro:box:validatebot4  
+↑10 ↓2000♦macro:bot:select5
+↑10 ↓2000♦macro:box:validatebot5  
+↑10 ↓2000♦macro:bot:select1
+↑10 ↓5000♦
+↑10 ↓200♦macro:bot:select1 
+↑10 ↓500♦jomi:⌛250 enter↓ enter↑
+↑10 ↓200♦macro:bot:select2
+↑10 ↓500♦jomi:⌛250 enter↓ enter↑
+↑10 ↓200♦macro:bot:select3
+↑10 ↓500♦jomi:⌛250 enter↓ enter↑ 
+↑10 ↓200♦macro:bot:select4
+↑10 ↓500♦jomi:⌛250 enter↓ enter↑
+↑10 ↓200♦macro:bot:select5
+↑10 ↓500♦jomi:⌛250 enter↓ enter↑
+↑10 ↓200♦macro:bot:select1

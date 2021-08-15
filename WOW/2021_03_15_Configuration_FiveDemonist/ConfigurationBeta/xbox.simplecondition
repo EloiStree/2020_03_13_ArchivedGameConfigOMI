@@ -1,0 +1,60 @@
+
+wow +  xm↓1000 + xal  ♦ macro:bot:savehunterone ♦ ☗TriggerOnTrue
+wow +  xm↓1000 +  xar ♦ macro:bot:savehuntertwo  ♦ ☗TriggerOnTrue
+wow +  xm↓1000 + xad  ♦ macro:bot:savedemonone ♦ ☗TriggerOnTrue
+wow +  xm↓1000 +  xau ♦ macro:bot:savedemontwo  ♦ ☗TriggerOnTrue
+wow +  xm↓1000 +  !xau + !xad + !xal + !xar  ♦ macro:bot:savehealer ♦ ☗TriggerOnTrue
+
+!xm + xal ♦macro:bot:hunterone♦ ☗TriggerOnTrue
+!xm + xar ♦macro:bot:huntertwo♦ ☗TriggerOnTrue
+!xm + xad ♦macro:bot:demonone ♦ ☗TriggerOnTrue
+!xm + xau ♦macro:bot:demontwo ♦ ☗TriggerOnTrue
+
+  xsbl ♦macro:boxes:fivebotfollow ♦ ☗TriggerOnTrue
+  xbr ♦macro:boxes:fivebotloadsoulattack♦ ☗TriggerOnTrue
+ 
+
+  xbd ♦macro:boxes:fivebotquickattack♦ ☗TriggerOnTrue
+  xbl ♦macro:boxes:fivebotheal♦ ☗TriggerOnTrue
+  xbl ♦macro:boxes:fivebotcreateheal♦ ☗TriggerOnTrue 
+  xbu ♦macro:boxes:fivebotinvokepet♦ ☗TriggerOnTrue
+  
+  xsbr ♦macro:boxes:moveinline♦ ☗Trigger OnTrue
+  xtr ♦macro:boxes:moveinpentagra♦ ☗TriggerOnTrue
+  xs ♦ macro:boxes:defaultfivebotposition♦ ☗TriggerOnTrue
+
+
+  joyrightdown ♦macro:boxes:fivebotloot♦ ☗TriggerOnTrue
+//joyrightleft♦macro:boxes:fivebotdoomtag♦ ☗TriggerOnTrue
+joyrightright♦ macro:boxes:intensifycombat♦ ☗TriggerOnTruerqrq
+joyrightup♦ macro:boxes:brainlessrotation♦ ☗TriggerOnTrue
+
+
+joyleftdown ♦ macro:boxes:fivebotmount♦ ☗TriggerOnTrue
+joyleftup♦ macro:boxes:fivebothome ♦ ☗TriggerOnTrue
+
+
+xjr♦ bool:spambrainlessattack:switch ♦ ☗TriggerOnTrue
+spambrainlessattack♦macro:boxes:brainlessrotation ♦ ☗TriggerOnTrue ☗LoopOnTrue 110000
+
+//inbattle♦ macro:boxes:brainlessrotation♦ ☗TriggerOnTrue
+//inbattle♦ bool:shouldprefight:false♦ ☗TriggerOnTrue
+//!inbattle♦ macro:boxes:battlerecovering♦ ☗TriggerOnTrue
+//!inbattle♦jomi:space↓ space↑♦ ☗TriggerOnTrue
+//!inbattle♦In 55000|bool:shouldprefight:true♦ ☗TriggerOnTrue
+//wow + inbattle ♦ macro:boxes:intensifycombat♦ ☗TriggerOnTrue
+
+//shouldprefight ♦ macro:boxes:fivebotloadsoulattack ♦ ☗TriggerOnTrue ☗LoopOnTrue 5000
+ 
+ 
+
+
+//xtl♦macro:boxes:petfarmingsequence ♦  ☗TriggerOnTrue
+xtl♦bool:petstrat:switch♦ ☗TriggerOnTrue
+//xtl♦macro:boxes:hunteranddemo♦ ☗TriggerOnTrue
+petstrat ♦ macro:boxes:hunteranddemo♦ ☗TriggerOnTrue ☗LoopOnTrue 21000   
+
+
+// /tar faithless aggressor
+/tar faithless skycaller
+/tar faithless ravager

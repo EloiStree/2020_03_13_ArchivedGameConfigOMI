@@ -1,0 +1,51 @@
+
+wow +  xm↓1000 + xal ♦ winutility:savefocusas:bot2 ♦ ☗TriggerOnTrue
+wow +  xm↓1000 +  xar ♦ winutility:savefocusas:bot3 ♦ ☗TriggerOnTrue
+wow +  xm↓1000 + xad ♦ winutility:savefocusas:bot4 ♦ ☗TriggerOnTrue
+wow +  xm↓1000 +  xau  ♦ winutility:savefocusas:bot5 ♦ ☗TriggerOnTrue
+wow +  xm↓1000 +  !xau + !xad + !xal + !xar  ♦ winutility:savefocusas:bot1 ♦ ☗TriggerOnTrue
+
+!xm + xal ♦ macro:bot:select2 ♦ ☗TriggerOnTrue
+!xm + xar ♦ macro:bot:select3 ♦ ☗TriggerOnTrue
+!xm + xad ♦ macro:bot:select4 ♦ ☗TriggerOnTrue
+!xm + xau ♦ macro:bot:select5 ♦ ☗TriggerOnTrue
+
+  xsbl ♦macro:boxes:fivebotfollow ♦ ☗TriggerOnTrue
+  xbr ♦macro:boxes:fivebotloadsoulattack♦ ☗TriggerOnTrue
+ 
+
+  xbd ♦macro:boxes:fivebotquickattack♦ ☗TriggerOnTrue
+  xbl ♦macro:boxes:fivebotheal♦ ☗TriggerOnTrue
+  xbl ♦macro:boxes:fivebotcreateheal♦ ☗TriggerOnTrue 
+  xbu ♦macro:boxes:fivebotinvokepet♦ ☗TriggerOnTrue
+  
+  xsbr ♦macro:boxes:moveinline♦ ☗Trigger OnTrue
+  xtr ♦macro:boxes:moveinpentagra♦ ☗TriggerOnTrue
+  xs ♦ macro:boxes:defaultfivebotposition♦ ☗TriggerOnTrue
+
+
+  joyrightdown ♦macro:boxes:fivebotloot♦ ☗TriggerOnTrue
+joyrightleft♦macro:boxes:fivebotdoomtag♦ ☗TriggerOnTrue
+joyrightright♦ macro:boxes:intensifycombat♦ ☗TriggerOnTrue
+joyrightup♦ macro:boxes:brainlessrotation♦ ☗TriggerOnTrue
+
+
+joyleftdown ♦ macro:boxes:fivebotmount♦ ☗TriggerOnTrue
+joyleftup♦ macro:boxes:fivebothome ♦ ☗TriggerOnTrue
+
+
+
+xjr♦ bool:spambrainlessattack:switch ♦ ☗TriggerOnTrue
+spambrainlessattack♦macro:boxes:brainlessrotation ♦ ☗TriggerOnTrue ☗LoopOnTrue 110000
+
+//inbattle♦ macro:boxes:brainlessrotation♦ ☗TriggerOnTrue
+//inbattle♦ bool:shouldprefight:false♦ ☗TriggerOnTrue
+//!inbattle♦ macro:boxes:battlerecovering♦ ☗TriggerOnTrue
+//!inbattle♦jomi:space↓ space↑♦ ☗TriggerOnTrue
+//!inbattle♦In 55000|bool:shouldprefight:true♦ ☗TriggerOnTrue
+//wow + inbattle ♦ macro:boxes:intensifycombat♦ ☗TriggerOnTrue
+
+//shouldprefight ♦ macro:boxes:fivebotloadsoulattack ♦ ☗TriggerOnTrue ☗LoopOnTrue 5000
+ 
+ 
+

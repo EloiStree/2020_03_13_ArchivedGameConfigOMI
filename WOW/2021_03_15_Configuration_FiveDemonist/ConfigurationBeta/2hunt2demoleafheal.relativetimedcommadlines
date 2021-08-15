@@ -1,0 +1,112 @@
+☗name Set three window to they place
+☗callid boxes:hunteranddemo
+
+//Send Pet
+
+
+↑10 ↓300♦macro:bot:healer  
+↑10 ↓150♦stack:doandgonext:druidrotationhealattack
+
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi: q↓ f7↓ f7↑
+↑10 ↓100♦jomi: f2↓ f2↑  f1↓ f1↑  q↑ 
+
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi: q↓ f7↓ f7↑
+↑10 ↓100♦jomi: f2↓ f2↑  f1↓ f1↑  q↑ 
+
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi: f7↓ f7↑
+↑10 ↓100♦jomi: tab↓ tab↑ ⌛10 f6↓ f6↑ ⌛10 f2↓ f2↑ ⌛10 f1↓ f1↑ 
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi: f7↓ f7↑
+↑10 ↓100♦jomi: tab↓ tab↑ ⌛10 f6↓ f6↑ ⌛10 f2↓ f2↑ ⌛10 f1↓ f1↑ 
+
+
+↑10 ↓300♦
+
+↑10 ↓300♦macro:bot:healer  
+↑10 ↓150♦stack:doandgonext:druidrotation
+↑10 ↓200♦jomi: 0↓  q↓ ⌛180 q↑  0↑
+
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓100♦jomi: f7↓ f7↑
+↑10 ↓100♦jomi: tab↓ tab↑ ⌛10 f6↓ f6↑ ⌛10 f1↓ f1↑ 
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦jomi: f7↓ f7↑
+↑10 ↓100♦jomi: tab↓ tab↑ ⌛10 f6↓ f6↑ ⌛10 f1↓ f1↑ 
+
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓100♦jomi: q↓ np0↓ np0↑ ⌛80 np6↓ np6↑ q↑ 
+
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓100♦jomi: q↓ np0↓ np0↑ ⌛80 np6↓ np6↑ q↑ 
+
+↑10 ↓300♦macro:bot:healer  
+↑10 ↓150♦stack:doandgonext:druidrotation
+↑10 ↓200♦jomi: 0↓  q↓ ⌛180 q↑  0↑
+
+
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓200♦jomi: r↓  q↓ ⌛150 q↑ r↑
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓200♦jomi: r↓  q↓ ⌛180 q↑ r↑
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓100♦jomi: r↓  ⌛30   r↑
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦jomi: r↓   ⌛30   r↑
+↑10 ↓300♦macro:bot:healer  
+↑10 ↓200♦jomi: r↓  q↓ ⌛180 q↑  r↑
+
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓100♦jomi: tab↓ tab↑ q↓ 0↓  ⌛80 0↑  q↑ 
+
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓100♦jomi: f7↓ f7↑
+↑10 ↓100♦jomi: tab↓ tab↑ q↓ 0↓  ⌛80 0↑  q↑ 
+
+↑200 ↓300♦macro:bot:demonone 
+↑10 ↓100♦jomi: f3↓ f3↑
+↑10 ↓200♦macro:bot:demontwo 
+↑10 ↓100♦jomi: f3↓ f3↑
+
+
+↑10 ↓300♦macro:bot:healer  
+↑10 ↓150♦stack:doandgonext:druidrotationhealattack
+
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓100♦jomi: tab↓ tab↑ q↓ 0↓  ⌛80 0↑  q↑ 
+
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓150♦jomi: f7↓ f7↑
+↑10 ↓150♦jomi: tab↓ tab↑ q↓ 0↓  ⌛80 0↑  q↑ 
+
+
+↑200 ↓300♦macro:bot:demonone 
+↑10 ↓100♦jomi: f8↓ f8↑ ⌛10 f1↓ f1↑ 
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦jomi: f8↓ f8↑ ⌛10 f1↓ f1↑ 
+
+
+↑3000 ↓300♦macro:bot:hunterone     
+↑10 ↓100♦jomi: r↓  space↓ ⌛10 space↑ r↑ 6↓   6↑
+↑200 ↓100♦jomi: np8↓   np8↑ 9↓   9↑  np9↓   np9↑ 
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓100♦jomi: r↓  space↓ ⌛10 space↑ r↑ 6↓   6↑
+↑200 ↓100♦jomi: np8↓   np8↑ 9↓   9↑  np9↓   np9↑ 
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓100♦jomi: r↓  space↓ ⌛10 space↑ r↑ tab↓ tab↑ ⌛40  f7↓ f7↑ 
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦jomi: r↓  space↓ ⌛10 space↑ r↑ tab↓ tab↑ ⌛40 k    f7↓ f7↑ 
+↑10 ↓300♦macro:bot:healer  
+↑10 ↓100♦jomi: r↓  space↓ ⌛10 space↑ r↑

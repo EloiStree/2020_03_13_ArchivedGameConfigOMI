@@ -1,0 +1,97 @@
+☗name Set three window to they place
+☗callid boxes:petfarmingsequencev2
+
+//Send Pet
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+
+//wainting pet
+↑10 ↓300♦macro:bot:hunterone  
+↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 np0↓ np0↑
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 np0↓ np0↑
+
+
+↑10 ↓200♦macro:bot:healer  
+↑10 ↓10♦jomi:f6↓ f6↑ 
+↑10 ↓150♦stack:doandgonext:druidrotation 
+
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓100♦jomi:f2↓ f2↑ ⌛10 f11↓ f11↑
+↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 0↓ 0↑ 
+↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 np0↓ np0↑
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦jomi:f2↓ f2↑ ⌛10 f11↓ f11↑ 
+↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 0↓ 0↑ 
+↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 np0↓ np0↑ 
+
+
+//Loot
+↑10 ↓300♦macro:bot:hunterone 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓100♦macro:box:loot
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓100♦macro:box:loot
+↑10 ↓300♦macro:bot:demonone
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓100♦macro:box:loot
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦stack:doandgonext:targetenemy
+↑10 ↓100♦jomi:f7↓ f7↑
+↑10 ↓100♦macro:box:loot
+↑10 ↓300♦macro:bot:healer
+↑10 ↓100♦macro:box:loot
+
+
+//Send Pet
+↑1000 ↓300♦macro:bot:hunterone  
+↑10 ↓100♦jomi:space↓ space↑
+↑10 ↓300♦macro:bot:huntertwo 
+↑10 ↓100♦jomi:space↓ space↑
+↑10 ↓300♦macro:bot:demonone 
+↑10 ↓100♦jomi:space↓ space↑
+↑10 ↓300♦macro:bot:demontwo 
+↑10 ↓100♦jomi:space↓ space↑
+ 
+ 
+
+//recover Pet
+//↑10 ↓300♦macro:bot:hunterone  
+//↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 f6↓ f6↑ np0↓ np0↑
+//↑10 ↓300♦macro:bot:huntertwo 
+//↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 f6↓ f6↑ np0↓ np0↑
+//↑10 ↓300♦macro:bot:demonone 
+//↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 f6↓ f6↑ np0↓ np0↑
+//↑10 ↓300♦macro:bot:demontwo 
+//↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 f6↓ f6↑ np0↓ np0↑
+//
+//
+//
+////wainting pet
+//↑10 ↓300♦macro:bot:hunterone  
+//↑10 ↓100♦jomi:tab↓ tab↑ ⌛100  np0↓ np0↑
+//↑10 ↓300♦macro:bot:huntertwo 
+//↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 0↓ 0↑
+//↑10 ↓300♦macro:bot:demonone 
+//↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 0↓ 0↑
+//↑10 ↓300♦macro:bot:demontwo 
+//↑10 ↓100♦jomi:tab↓ tab↑ ⌛100 0↓ 0↑
+
+
+
+
+

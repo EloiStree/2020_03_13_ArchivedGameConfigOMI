@@ -1,0 +1,8 @@
+☗name Set three window to they place
+☗callid boxes:battlerecovering
+↑6000 ↓100♦macro:boxes:fivebotheal
+↑6000 ↓100♦macro:boxes:fivebotcreateheal
+↑10 ↓5000♦macro:boxes:fivebotinvokepet
+
+↑5000 ↓3000♦macro:boxes:fivebotloot
+

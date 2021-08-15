@@ -1,0 +1,16 @@
+
+box:hunterone ♦jomi: 0↓ 0↑♦jomi: 1↓ 1↑
+box:huntertwo ♦jomi: 0↓ 0↑♦jomi: 1↓ 1↑
+box:druid ♦jomi: 0↓ 0↑♦jomi: 1↓ 1↑
+box:demonistone ♦jomi: 0↓ 0↑♦jomi: 1↓ 1↑
+box:demonisttwo ♦ jomi: 0↓ 0↑♦jomi: 1↓ 1↑
+
+/castsequence /target brinebrawn cannoneer, /target shipwright turncoat 
+
+
+targetenemy ♦jomi: j↓ j↑♦jomi: k↓ k↑♦jomi: l↓ l↑
+attacksequence ♦jomi: 0↓ 0↑ np0↓ np0↑♦jomi: 1↓ 1↑ np1↓ np1↑♦jomi: 2↓ 2↑ np2↓ np2↑♦jomi: 3↓ 3↑ np3↓ np3↑♦jomi: 4↓ 4↑ np4↓ np4↑♦jomi: 5↓ 5↑ np5↓ np5↑
+
+
+druidrotation ♦jomi: tab↓ tab↑ ⌛10 0↓ 0↑ ♦jomi: tab↓ tab↑ ⌛10  1↓ 1↑
+druidrotationhealattack ♦jomi: tab↓ tab↑ ⌛10 0↓ 0↑ ♦jomi:  f11↓ f11↑ ♦jomi: tab↓ tab↑ ⌛10  1↓ 1↑♦jomi:  f6↓ f6↑
