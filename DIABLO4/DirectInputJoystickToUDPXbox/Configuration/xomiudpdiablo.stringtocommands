@@ -1,0 +1,184 @@
+udp laptop|x:20 
+
+current:heal ♦  udp 127.0.0.1:2504 |sbl:20 
+current:mount ♦  udp 127.0.0.1:2504 |ar:20
+current:teleport ♦  udp 127.0.0.1:2504 |ad:20
+current:dash ♦  udp 127.0.0.1:2504 |b:20
+current:power1 ♦  udp 127.0.0.1:2504 |y:20
+current:power2 ♦  udp 127.0.0.1:2504 |sbr:20
+current:power3 ♦  udp 127.0.0.1:2504 |tl:20
+current:power4 ♦  udp 127.0.0.1:2504 |tr:20
+current:power5 ♦  udp 127.0.0.1:2504 |a:20
+current:power6 ♦  udp 127.0.0.1:2504 |x:20
+current:map ♦  udp 127.0.0.1:2504 |ml:20 
+current:inventory ♦  udp 127.0.0.1:2504 |mr:20 
+
+current:left ♦  udp 127.0.0.1:2504 |sbl:20 
+current:right ♦  udp 127.0.0.1:2504 |sbr:20 
+current:subleft ♦  udp 127.0.0.1:2504 |tl:20 
+current:subright ♦  udp 127.0.0.1:2504 |tr:20 
+current:arrowleft ♦  udp 127.0.0.1:2504 |al:20 
+current:arrowright ♦  udp 127.0.0.1:2504 |ar:20 
+current:validate ♦  udp 127.0.0.1:2504 |a:20 
+current:cancel ♦  udp 127.0.0.1:2504 |b:20 
+current:a ♦  udp 127.0.0.1:2504 |a:20 
+current:b ♦  udp 127.0.0.1:2504 |b:20 
+current:x ♦  udp 127.0.0.1:2504 |x:20 
+current:y ♦  udp 127.0.0.1:2504 |y:20 
+current:sbl ♦  udp 127.0.0.1:2504  |sbl:20 
+current:sbr ♦  udp 127.0.0.1:2504  |sbr:20 
+current:tl ♦  udp 127.0.0.1:2504   |tl:20 
+current:tr ♦  udp 127.0.0.1:2504   |tr:20 
+current:al ♦  udp 127.0.0.1:2504   |al:20 
+current:ar ♦  udp 127.0.0.1:2504   |ar:20 
+current:au ♦  udp 127.0.0.1:2504   |au:20 
+current:ad ♦  udp 127.0.0.1:2504   |ad:20 
+current:ml ♦  udp 127.0.0.1:2504   |mr:20 
+current:mr ♦  udp 127.0.0.1:2504   |mr:20 
+
+
+tower:heal ♦       udp tower|sbl:20 
+tower:mount ♦      udp tower|ar:20
+tower:teleport ♦   udp tower|ad:20
+tower:dash ♦       udp tower|b:20
+tower:power1 ♦     udp tower|y:20
+tower:power2 ♦     udp tower|sbr:20
+tower:power3 ♦     udp tower|tl:20
+tower:power4 ♦     udp tower|tr:20
+tower:power5 ♦     udp tower|a:20
+tower:power6 ♦     udp tower|x:20
+tower:map ♦        udp tower|ml:20 
+tower:inventory ♦  udp tower|mr:20 
+tower:left ♦       udp tower|sbl:20 
+tower:right ♦      udp tower|sbr:20 
+tower:subleft ♦    udp tower|tl:20 
+tower:subright ♦   udp tower|tr:20 
+tower:arrowleft ♦  udp tower|al:20 
+tower:arrowright ♦ udp tower|ar:20 
+tower:validate ♦   udp tower|a:20 
+tower:cancel ♦     udp tower|b:20 
+tower:a ♦          udp tower|a:20 
+tower:b ♦          udp tower|b:20 
+tower:x ♦          udp tower|x:20 
+tower:y ♦          udp tower|y:20 
+tower:sbl ♦        udp tower  |sbl:20 
+tower:sbr ♦        udp tower  |sbr:20 
+tower:tl ♦         udp tower   |tl:20 
+tower:tr ♦         udp tower   |tr:20 
+tower:al ♦         udp tower   |al:20 
+tower:ar ♦         udp tower   |ar:20 
+tower:au ♦         udp tower   |au:20 
+tower:ad ♦         udp tower   |ad:20 
+tower:ml ♦         udp tower   |ml:20 
+tower:mr ♦         udp tower   |mr:20 
+
+
+
+shadow:heal ♦       udp shadow|sbl:20 
+shadow:mount ♦      udp shadow|ar:20
+shadow:teleport ♦   udp shadow|ad:20
+shadow:dash ♦       udp shadow|b:20
+shadow:power1 ♦     udp shadow|y:20
+shadow:power2 ♦     udp shadow|sbr:20
+shadow:power3 ♦     udp shadow|tl:20
+shadow:power4 ♦     udp shadow|tr:20
+shadow:power5 ♦     udp shadow|a:20
+shadow:power6 ♦     udp shadow|x:20
+shadow:map ♦        udp shadow|ml:20 
+shadow:inventory ♦  udp shadow|mr:20 
+shadow:left ♦       udp shadow|sbl:20 
+shadow:right ♦      udp shadow|sbr:20 
+shadow:subleft ♦    udp shadow|tl:20 
+shadow:subright ♦   udp shadow|tr:20 
+shadow:arrowleft ♦  udp shadow|al:20 
+shadow:arrowright ♦ udp shadow|ar:20 
+shadow:validate ♦   udp shadow|a:20 
+shadow:cancel ♦     udp shadow|b:20 
+shadow:a ♦          udp shadow|a:20 
+shadow:b ♦          udp shadow|b:20 
+shadow:x ♦          udp shadow|x:20 
+shadow:y ♦          udp shadow|y:20 
+shadow:sbl ♦        udp shadow|sbl:20 
+shadow:sbr ♦        udp shadow|sbr:20 
+shadow:tl ♦         udp shadow|tl:20 
+shadow:tr ♦         udp shadow|tr:20 
+shadow:al ♦         udp shadow|al:20 
+shadow:ar ♦         udp shadow|ar:20 
+shadow:au ♦         udp shadow|au:20 
+shadow:ad ♦         udp shadow|ad:20 
+shadow:ml ♦         udp shadow|ml:20 
+shadow:mr ♦         udp shadow|mr:20 
+
+
+all:heal ♦       udp all|sbl:20 
+all:mount ♦      udp all|ar:20
+all:teleport ♦   udp all|ad:20
+all:dash ♦       udp all|b:20
+all:power1 ♦     udp all|y:20
+all:power2 ♦     udp all|sbr:20
+all:power3 ♦     udp all|tl:20
+all:power4 ♦     udp all|tr:20
+all:power5 ♦     udp all|a:20
+all:power6 ♦     udp all|x:20
+all:map ♦        udp all|ml:20 
+all:inventory ♦  udp all|mr:20 
+all:left ♦       udp all|sbl:20 
+all:right ♦      udp all|sbr:20 
+all:subleft ♦    udp all|tl:20 
+all:subright ♦   udp all|tr:20 
+all:arrowleft ♦  udp all|al:20 
+all:arrowright ♦ udp all|ar:20 
+all:validate ♦   udp all|a:20 
+all:cancel ♦     udp all|b:20 
+all:a ♦          udp all|a:20 
+all:b ♦          udp all|b:20 
+all:x ♦          udp all|x:20 
+all:y ♦          udp all|y:20 
+all:sbl ♦        udp all|sbl:20 
+all:sbr ♦        udp all|sbr:20 
+all:tl ♦         udp all|tl:20 
+all:tr ♦         udp all|tr:20 
+all:al ♦         udp all|al:20 
+all:ar ♦         udp all|ar:20 
+all:au ♦         udp all|au:20 
+all:ad ♦         udp all|ad:20 
+all:ml ♦         udp all|ml:20 
+all:mr ♦         udp all|mr:20 
+
+all:power1start ♦     udp all|y_
+all:power2start ♦     udp all|sbr_
+all:power3start ♦     udp all|tl_
+all:power4start ♦     udp all|tr_
+all:power5start ♦     udp all|a_
+all:power6start ♦     udp all|x_
+
+all:power1stop ♦     udp all|y-
+all:power2stop ♦     udp all|sbr-
+all:power3stop ♦     udp all|tl-
+all:power4stop ♦     udp all|tr-
+all:power5stop ♦     udp all|a-
+all:power6stop ♦     udp all|x-
+
+all:dashstart ♦ udp all|b_
+all:dashstop ♦ udp all|b-
+
+
+
+
+all:tier4 ♦ udp all| al=200 250>  ml=200 250> lb=200  1000> ad=200 250> ad=200 250> ad=200  250> a=200 250> x=200 28000> ar=200 250> a=200 250> au=200 250> ad=200 250> ad=200 250> ad=200 250> ad=200 250> a=200 250> al=2000 250> a=200 250> lt=200
+all:tier3 ♦ udp all| al=200 250>  ml=200 250> lb=200  1000> ad=200 250> ad=200 250> ad=200  250> a=200 250> x=200 28000> ar=200 250> a=200 250> au=200 250> ad=200 250> ad=200 250> ad=200 250> ad=200 250> (au=200 20>) a=200 250> al=2000 250> a=200 250> lt=200
+all:tier2 ♦ udp all| al=200 250>  ml=200 250> lb=200  1000> ad=200 250> ad=200 250> ad=200  250> a=200 250> x=200 28000> ar=200 250> a=200 250> au=200 250> ad=200 250> ad=200 250> ad=200 250> ad=200 250> (au=200 20>) (au=200 20>) a=200 250> al=2000 250> a=200 250> lt=200
+all:tier1 ♦ udp all| al=200 250>  ml=200 250> lb=200  1000> ad=200 250> ad=200 250> ad=200  250> a=200 250> x=200 28000> ar=200 250> a=200 250> au=200 250> ad=200 250> ad=200 250> ad=200 250> ad=200 250> (au=200 20>) (au=200 20>)(au=200 20>) a=200 250> al=2000 250> a=200 250> lt=200
+
+all:tiertest ♦in 0| macro:all:tier1♦in 60000| macro:all:tier2♦in 120000| macro:all:tier3♦in 180000| macro:all:tier4
+all:rejoindown♦udp all| ad=100 28000> jl%0%-1 1400> jl%0%0   a=100
+all:rejoinleft♦udp all| ad=100 28000> jl%-1%0 1400> jl%0%0   a=100
+all:rejoindownleft♦udp all| ad=100 28000> jl%-1%-1 1400> jl%0%0   a=100
+
+
+all:accepter ♦udp all| al=1000 20>  a=100
+all:accepterdouble ♦udp all| al=1000 20>  a=100 2000> al=1000 20>  a=100
+all:123456 ♦udp all|jl=150 y=100 1000> sbr=100 1000> rt=100 1000> lt=100 1000> x=100 1000> a=100 jr=150
+all:123456fast ♦udp all|jl=150  100> a=20  y=100 300> rb=200 300>  rt=100 100> a=20 300> lt=100 300> x=100 100> a=20 300> a=100 jr=150 jlrandnorm 100> a=20 800> Y  100> a=20 800> Y  200> sbl
+all:heal ♦udp all| sbl=150 
+all:showitem ♦udp all| jr=150 

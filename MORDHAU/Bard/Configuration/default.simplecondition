@@ -1,0 +1,210 @@
+//mordhau+leftupfoot↓1000  ♦ macro:DodgeLeft♦  ☗TriggerOnTrue ☗TriggerOnFalse
+//mordhau+rightupfoot↓1000  ♦ macro:DodgeRight♦  ☗TriggerOnTrue ☗TriggerOnFalse
+//mordhau+leftdownfoot↓1000  ♦ macro:DodgeBack ♦  ☗TriggerOnTrue ☗TriggerOnFalse
+//
+//mordhau+leftupfoot↓1000  ♦ macro:lookleft♦  ☗TriggerOnTrue ☗TriggerOnFalse
+//mordhau+rightupfoot↓1000  ♦ macro:lookright♦  ☗TriggerOnTrue ☗TriggerOnFalse
+//mordhau+leftdownfoot↓1000  ♦ macro:lookdown ♦  ☗TriggerOnTrue ☗TriggerOnFalse
+
+mordhau + Pedal  ♦ macro:fetchstolenorfist ♦ ☗TriggerOnTrue
+mordhau + !Pedal  ♦ macro:fetchdistance ♦   ☗TriggerOnTrue
+
+mordhau + rightdownfoot  ♦  macro:feinattack  ♦☗TriggerOnTrue
+mordhau + !rightdownfoot  ♦  macro:feinattack ♦   ☗TriggerOnTrue
+
+mordhau + rightupfoot  ♦  macro:kick  ♦☗TriggerOnTrue
+mordhau + !rightupfoot  ♦  macro:kick ♦   ☗TriggerOnTrue
+
+PageUp ♦ macro:fullnoteslow ♦ ☗TriggerOnTrue
+PageDown ♦ macro:fullnote ♦ ☗TriggerOnTrue
+xbl ♦  macro:playsomenote ♦   ☗TriggerOnTrue
+home ♦  macro:playsomenote ♦   ☗TriggerOnTrue
+
+//xbu ♦  macro:m2 ♦   ☗TriggerOnTrue
+//xbd ♦  macro:m3 ♦   ☗TriggerOnTrue
+//xbr ♦  macro:m4 ♦   ☗TriggerOnTrue
+
+                                                              
+ctrl + RightBorderScreen + UpBorderScreen ♦ unity:openurl:https://chat.openai.com/ ♦   ☗TriggerOnTrue
+ctrl + RightBorderScreen + DownBorderScreen ♦ unity:openurl:https://translate.google.be/?hl=en&sl=fr&tl=en&op=translate ♦   ☗TriggerOnTrue
+ctrl + LeftBorderScreen + UpBorderScreen ♦ unity:openurl:https://github.com/eloistree ♦   ☗TriggerOnTrue
+ctrl + LeftBorderScreen + DownBorderScreen ♦ unity:openurl:https://translate.google.be/?hl=en&sl=en&tl=fr&op=translate ♦   ☗TriggerOnTrue
+////FootPedal↑100  ♦ macro:OpenSwitchWindows1 ♦   ☗TriggerOnTrue
+////FootPedal↓100  ♦ macro:OpenSwitchWindows2 ♦   ☗TriggerOnTrue
+////FootTL↑100 ♦  winkey:write:[]   ♦   ☗TriggerOnTrue
+////FootTR↑100 ♦  winkey:write:{}   ♦   ☗TriggerOnTrue
+////FootDL↑100 ♦  winkey:write:<>   ♦   ☗TriggerOnTrue
+////FootDR↑100 ♦  winkey:write:➤☗|↓←→↑_ ‾    ♦   ☗TriggerOnTrue
+
+
+// FootTL↑100 ♦  winkey:s:delete   ♦   ☗TriggerOnTrue
+// FootTR↑100 ♦  winkey:s:b ♦   ☗TriggerOnTrue
+// FootDL↑100 ♦  macro:audioclip:export ♦   ☗TriggerOnTrue
+// FootDR↑100 ♦  macro:audioclip:split    ♦   ☗TriggerOnTrue
+
+mordhau + FootTL↑100 ♦  winkey:s:1   ♦   ☗TriggerOnTrue
+mordhau + FootTR↑100 ♦  winkey:s:2 ♦   ☗TriggerOnTrue
+mordhau + FootDL↑100 ♦  macro:mordhaucheer ♦   ☗TriggerOnTrue
+//mordhau + FootDL↓100 ♦  macro:mordhaudance ♦   ☗TriggerOnTrue
+mordhau + FootDL↑100 ♦  macro:mordhaujoke ♦   ☗TriggerOnTrue
+mordhau + FootDR↓100 ♦  macro:mordhaumenu ♦   ☗TriggerOnTrue
+//mordhau + FootDR↑100 ♦  winkey:s:escape    ♦   ☗TriggerOnTrue
+
+
+!FootTL + !FootTR + !FootDL + !FootDR ♦bool:footafk:true♦   ☗TriggerOnTrue
+!FootTL + !FootTR + !FootDL + !FootDR ♦bool:footafk:false♦   ☗TriggerOnFalse
+
+
+
+LR0 ♦  macro:m0  ♦   ☗TriggerOnTrue
+LR1 ♦  macro:m1  ♦   ☗TriggerOnTrue
+LR2 ♦  macro:m2  ♦   ☗TriggerOnTrue
+LR3 ♦  macro:m3  ♦   ☗TriggerOnTrue
+LR4 ♦  macro:m4  ♦   ☗TriggerOnTrue
+LR5 ♦  macro:m5  ♦   ☗TriggerOnTrue
+LR6 ♦  macro:m6  ♦   ☗TriggerOnTrue
+LR7 ♦  macro:m7  ♦   ☗TriggerOnTrue
+LR8 ♦  macro:m8  ♦   ☗TriggerOnTrue
+LR9 ♦  macro:m9  ♦   ☗TriggerOnTrue
+LR10♦  macro:m10 ♦   ☗TriggerOnTrue
+LR11♦  macro:m11 ♦   ☗TriggerOnTrue
+LR12♦  macro:m12 ♦   ☗TriggerOnTrue
+LR13♦  macro:m13 ♦   ☗TriggerOnTrue
+LR14♦  macro:m14 ♦   ☗TriggerOnTrue
+LRB0♦  macro:m15 ♦   ☗TriggerOnTrue
+LRB1♦  macro:m16 ♦   ☗TriggerOnTrue
+LRB2♦  macro:m17 ♦   ☗TriggerOnTrue
+LRB3♦  macro:m18 ♦   ☗TriggerOnTrue
+LRB4♦  macro:m19 ♦   ☗TriggerOnTrue
+LRB5♦  macro:m20 ♦   ☗TriggerOnTrue
+LRB6♦  macro:m21 ♦   ☗TriggerOnTrue
+LRB7♦  macro:m22 ♦   ☗TriggerOnTrue
+LRB8♦  macro:m23 ♦   ☗TriggerOnTrue
+LRB9♦  macro:m24 ♦   ☗TriggerOnTrue
+
+
+
+kAwb0 ♦  macro:m0  ♦ ☗TriggerOnTrue
+kAwb1 ♦  macro:m1  ♦ ☗TriggerOnTrue
+kAwb2 ♦  macro:m2  ♦ ☗TriggerOnTrue
+kAwb3 ♦  macro:m3  ♦ ☗TriggerOnTrue
+kAwb4 ♦  macro:m4  ♦ ☗TriggerOnTrue
+kAwb5 ♦  macro:m5  ♦ ☗TriggerOnTrue
+kAwb6 ♦  macro:m6  ♦ ☗TriggerOnTrue
+kAwb7 ♦  macro:m7  ♦ ☗TriggerOnTrue
+kAwb8 ♦  macro:m8  ♦ ☗TriggerOnTrue
+kAwb9 ♦  macro:m9  ♦ ☗TriggerOnTrue
+kAwb10♦  macro:m10 ♦ ☗TriggerOnTrue
+kAwb11♦  macro:m11 ♦ ☗TriggerOnTrue
+kAwb12♦  macro:m12 ♦ ☗TriggerOnTrue
+kAwb13♦  macro:m13 ♦ ☗TriggerOnTrue
+kAwb14♦  macro:m14 ♦ ☗TriggerOnTrue
+kAwb15♦  macro:m15 ♦ ☗TriggerOnTrue
+kAwb16♦  macro:m16 ♦ ☗TriggerOnTrue
+kAwb17♦  macro:m17 ♦ ☗TriggerOnTrue
+kAwb18♦  macro:m18 ♦ ☗TriggerOnTrue
+kAwb19♦  macro:m19 ♦ ☗TriggerOnTrue
+kAwb20♦  macro:m20 ♦ ☗TriggerOnTrue
+kAwb21♦  macro:m21 ♦ ☗TriggerOnTrue
+kAwb22♦  macro:m22 ♦ ☗TriggerOnTrue
+kAwb23♦  macro:m23 ♦ ☗TriggerOnTrue
+kAwb24♦  macro:m24 ♦ ☗TriggerOnTrue
+kAwb25♦  macro:m25 ♦ ☗TriggerOnTrue
+kAwb26♦  macro:m26 ♦ ☗TriggerOnTrue
+kAwb27♦  macro:m27 ♦ ☗TriggerOnTrue
+kAwb28♦  macro:m28 ♦ ☗TriggerOnTrue
+kAwb29♦  macro:m29 ♦ ☗TriggerOnTrue
+kAwb30♦  macro:m30 ♦ ☗TriggerOnTrue
+kAwb31♦  macro:m31 ♦ ☗TriggerOnTrue
+kAwb32♦  macro:m32 ♦ ☗TriggerOnTrue
+kAwb33♦  macro:m33 ♦ ☗TriggerOnTrue
+kAwb34♦  macro:m34 ♦ ☗TriggerOnTrue
+kAwb35♦  macro:m35 ♦ ☗TriggerOnTrue
+kAwb36♦  macro:m36 ♦ ☗TriggerOnTrue
+kAwb37♦  macro:m37 ♦ ☗TriggerOnTrue
+kAwb38♦  macro:m38 ♦ ☗TriggerOnTrue
+kAwb39♦  macro:m39 ♦ ☗TriggerOnTrue
+kAwb40♦  macro:m40 ♦ ☗TriggerOnTrue
+kAwb41♦  macro:m41 ♦ ☗TriggerOnTrue
+kAwb42♦  macro:m42 ♦ ☗TriggerOnTrue
+kAwb43♦  macro:m43 ♦ ☗TriggerOnTrue
+kAwb44♦  macro:m44 ♦ ☗TriggerOnTrue
+kAwb45♦  macro:m45 ♦ ☗TriggerOnTrue
+kAwb46♦  macro:m46 ♦ ☗TriggerOnTrue
+kAwb47♦  macro:m47 ♦ ☗TriggerOnTrue
+kAwb48♦  macro:m48 ♦ ☗TriggerOnTrue
+kAwb49♦  macro:m49 ♦ ☗TriggerOnTrue
+kAwb50♦  macro:m50 ♦ ☗TriggerOnTrue
+kAwb51♦  macro:m51 ♦ ☗TriggerOnTrue
+kAwb52♦  macro:m52 ♦ ☗TriggerOnTrue
+kAwb53♦  macro:m53 ♦ ☗TriggerOnTrue
+kAwb54♦  macro:m54 ♦ ☗TriggerOnTrue
+kAwb55♦  macro:m55 ♦ ☗TriggerOnTrue
+kAwb56♦  macro:m56 ♦ ☗TriggerOnTrue
+kAwb57♦  macro:m57 ♦ ☗TriggerOnTrue
+kAwb58♦  macro:m58 ♦ ☗TriggerOnTrue
+
+
+
+
+
+
+
+
+rotateup♦ 
+rotateup♦ macro:crouchend
+
+
+//aoe4 +  xm↓1000 + xal ♦ winutility:savefocusas:bot2 ♦ ☗TriggerOnTrue
+//
+//wow +  xm↓1000 + xal ♦ winutility:savefocusas:bot2 ♦ ☗TriggerOnTrue
+//wow +  xm↓1000 +  xar ♦ winutility:savefocusas:bot3 ♦ ☗TriggerOnTrue
+//wow +  xm↓1000 + xad ♦ winutility:savefocusas:bot4 ♦ ☗TriggerOnTrue
+//wow +  xm↓1000 +  xau  ♦ winutility:savefocusas:bot5 ♦ ☗TriggerOnTrue
+//
+////FootPadLeft♦winutility:savefocusas:crash♦ ☗TriggerOnTrue
+////FootPadRight♦winutility:setfocuson:crash♦ ☗TriggerOnTrue
+//crash +  footsustain  ♦ jomi:a↓⌛250 a↑ ♦ ☗TriggerOnTrue
+//crash +  footsustain ♦ jomi:a↓ ⌛250 a↑ ♦ ☗TriggerOnFalse
+//crash +  FootPadrightdown  ♦jomi:space↓ ⌛400 space↑ ⌛40 space↓ ⌛400 space↑  e↓ ⌛250 e↑  ♦ ☗TriggerOnTrue
+//crash +  FootPadrightup  ♦jomi:space↓ ⌛40 space↑  e↓ ⌛250r e↑   ♦ ☗TriggerOnTrue
+//crash +  FootPadleftup ♦jomi: r↓ ⌛250 r↑  ♦ ☗TriggerOnTrue
+//crash +  footpadleftup  ♦jomi:r↓ ⌛250 r↑  ♦ ☗TriggerOnFalse
+//crash +  FootPadleftdown ♦jomi: r↓ ⌛250 r↑  ♦ ☗TriggerOnTrue
+//crash +  footpadleftdown  ♦jomi:r↓ ⌛250 r↑  ♦ ☗TriggerOnFalse
+//
+//
+//ftl +  footsustain  ♦ jomi:space↓⌛250 space↑ ♦ ☗TriggerOnTrue
+//ftl +  footsustain ♦ jomi: space↓ ⌛250 space↑ ♦ ☗TriggerOnFalse
+////ftl +  FootPadrightdown  ♦jomi:1↓ ⌛400 1↑   leftclick↓ ⌛250 leftclick↑  ♦ ☗TriggerOnTrue
+//ftl +  FootPadrightup  ♦jomi:space↓ ⌛40 space↑    ♦ ☗TriggerOnTrue
+//ftl +  FootPadrightup  ♦jomi:space↓ ⌛40 space↑    ♦ ☗TriggerOnFalse
+////ftl +  FootPadleftup ♦jomi: 3↓ ⌛250 3↑  leftclick↓ ⌛250 leftclick↑ ♦ ☗TriggerOnTrue
+////ftl +  FootPadleftdown ♦jomi: 4↓ ⌛250 4↑ leftclick↓ ⌛250 leftclick↑  ♦ ☗TriggerOnTrue
+//
+//ftl +  FootPadRight0  ♦jomi:1↓ ⌛4 1↑   leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+//ftl +  FootPadRight1  ♦jomi:2↓ ⌛4 2↑    leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+//ftl +  FootPadRight2 ♦jomi: 3↓ ⌛4 3↑  leftclick↓ ⌛20 leftclick↑ ♦ ☗TriggerOnTrue
+//ftl +  FootPadRight3 ♦jomi: 4↓ ⌛4 4↑ leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+//
+////!xm + xal ♦ macro:bot:select2 ♦ ☗TriggerOnTrue
+////!xm + xar ♦ macro:bot:select3 ♦ ☗TriggerOnTrue
+////!xm + xad ♦ macro:bot:select4 ♦ ☗TriggerOnTrue
+////!xm + xau ♦ macro:bot:select5 ♦ ☗TriggerOnTrue
+//
+// // xsbl ♦macro:boxes:fivebotfollow ♦ ☗TriggerOnTrue
+// // xbr ♦macro:boxes:fivebotloadsoulattack♦ ☗TriggerOnTrue
+// // xbd ♦macro:boxes:fivebotquickattack♦ ☗TriggerOnTrue
+// // xbl ♦macro:boxes:fivebotloot♦ ☗TriggerOnTrue
+//  
+// // xsbr ♦macro:boxes:moveinline♦ ☗TriggerOnTrue
+//  //xbu ♦macro:boxes:fivebotinvokepet♦ ☗TriggerOnTrue
+// // xtr ♦macro:boxes:moveinpentagra♦ ☗TriggerOnTrue
+// // xs  ♦ macro:boxes:defaultfivebotposition♦ ☗TriggerOnTrue
+//
+//
+//
+//lol +  FootPadLD ♦jomi: 1↓ ⌛4 1↑ leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+//lol +  FootPadLT ♦jomi: 2↓ ⌛4 2↑ leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+//lol +  FootPadRD ♦jomi: s↓ ⌛4 s↑ ♦ ☗TriggerOnTrue
+//lol +  FootPadRT ♦jomi: 1↓ ⌛4 1↑ ♦ ☗TriggerOnTrue

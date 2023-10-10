@@ -1,0 +1,64 @@
+
+
+
+!afkfoot + diablo + LeftUpFoot ♦ winkey:s:z ♦ ☗TriggerOnTrue
+!afkfoot + diablo + RightUpFoot ♦ winkey:r:m ♦ ☗TriggerOnTrue
+!afkfoot + diablo + RightUpFoot ♦ winkey:p:m ♦ ☗TriggerOnTrue
+!afkfoot + diablo + LeftDownFoot ♦ winkey:stroke:q ♦ ☗TriggerOnTrue
+!afkfoot + diablo + RightDownFoot ♦ winkey:stroke:space  ♦ ☗TriggerOnTrue
+
+
+X2SBL ♦ udp all|sbl.  ♦ ☗TriggerOnTrue
+X2SBL ♦ udp all|sbl'  ♦ ☗TriggerOnFalse
+X2SBR♦ udp all|sbr.  ♦ ☗TriggerOnTrue
+X2SBR♦ udp all|sbr'  ♦ ☗TriggerOnFalse
+X2BL♦ udp all|bl.  ♦ ☗TriggerOnTrue
+X2BL♦ udp all|bl'  ♦ ☗TriggerOnFalse
+X2BR♦ udp all|br.  ♦ ☗TriggerOnTrue
+X2BR♦ udp all|br'  ♦ ☗TriggerOnFalse
+X2BU♦ udp all|bu.  ♦ ☗TriggerOnTrue
+X2BU♦ udp all|bu'  ♦ ☗TriggerOnFalse
+X2BD♦ udp all|bd.  ♦ ☗TriggerOnTrue
+X2BD♦ udp all|bd'  ♦ ☗TriggerOnFalse
+X2AL♦ udp all|al.  ♦ ☗TriggerOnTrue
+X2AL♦ udp all|al'  ♦ ☗TriggerOnFalse
+X2AR♦ udp all|ar.  ♦ ☗TriggerOnTrue
+X2AR♦ udp all|ar'  ♦ ☗TriggerOnFalse
+X2AU♦ udp all|au.  ♦ ☗TriggerOnTrue
+X2AU♦ udp all|au'  ♦ ☗TriggerOnFalse
+X2AD♦ udp all|ad.  ♦ ☗TriggerOnTrue
+X2AD♦ udp all|ad'  ♦ ☗TriggerOnFalse
+X2M♦ udp all|ml.  ♦ ☗TriggerOnTrue
+X2M♦ udp all|ml'  ♦ ☗TriggerOnFalse
+X2S♦ udp all|mr.  ♦ ☗TriggerOnTrue
+X2S♦ udp all|mr'  ♦ ☗TriggerOnFalse
+X2JL♦ udp all|jl.  ♦ ☗TriggerOnTrue
+X2JL♦ udp all|jl'  ♦ ☗TriggerOnFalse
+X2JR♦ udp all|jr.  ♦ ☗TriggerOnTrue
+X2JR♦ udp all|jr'  ♦ ☗TriggerOnFalse
+X2TL♦ udp all|tl.  ♦ ☗TriggerOnTrue
+X2TL♦ udp all|tl'  ♦ ☗TriggerOnFalse
+X2TR♦ udp all|tr.  ♦ ☗TriggerOnTrue
+X2TR♦ udp all|tr'  ♦ ☗TriggerOnFalse
+
+X2JoyLeftLeft ♦ udp all|jlh%-1.0  ♦ ☗TriggerOnTrue
+X2JoyLeftRight ♦ udp all|jlh%1.0  ♦ ☗TriggerOnTrue
+X2jlHNeutral ♦ udp all|jlh%0  ♦ ☗TriggerOnTrue
+
+X2JoyLeftUp ♦ udp all|jlv%1.0  ♦ ☗TriggerOnTrue
+X2JoyLeftDown♦ udp all|jlv%-1.0  ♦ ☗TriggerOnTrue
+X2jlVNeutral♦ udp all|jlv%0  ♦ ☗TriggerOnTrue
+
+
+
+
+X2JoyRightRight ♦ udp all|jrh%1.0  ♦ ☗TriggerOnTrue
+X2JoyRightLeft  ♦ udp all|jrh%-1.0  ♦ ☗TriggerOnTrue
+X2JoyRightDown  ♦ udp all|jrv%-1.0  ♦ ☗TriggerOnTrue
+X2JoyRightUp    ♦ udp all|jrv%1.0  ♦ ☗TriggerOnTrue
+
+!X2JoyLeftRight + !X2JoyLeftLeft + !X2JoyLeftDown + !X2JoyLeftUp ♦ bool:joystickleftnull:true   ♦ ☗TriggerOnTrue
+!X2JoyLeftRight + !X2JoyLeftLeft + !X2JoyLeftDown + !X2JoyLeftUp ♦ bool:joystickleftnull:false  ♦ ☗TriggerOnFalse
+
+!X2JoyRightRight + !X2JoyRightLeft + !X2JoyRightDown + !X2JoyRightUp ♦ bool:joystickrightnull:true  ♦ ☗TriggerOnTrue
+!X2JoyRightRight + !X2JoyRightLeft + !X2JoyRightDown + !X2JoyRightUp ♦ bool:joystickrightnull:false  ♦ ☗TriggerOnFalse

@@ -1,0 +1,7 @@
+//alias♦serialport♦baudrate♦databits♦parity♦stopbits
+Xbox1♦COM10♦9600♦8♦None♦One
+Xbox2♦COM11♦9600♦8♦None♦One
+NanoRead♦COM12♦9600♦8♦None♦One
+NanoRead2 ♦ COM12 ♦ 9600 ♦ 8 ♦ None♦One  ♦ ☗In
+☗In♦NanoRead♦Default
+☗In♦NanoRead♦DigitalAnalogInput
